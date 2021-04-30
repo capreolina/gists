@@ -22,16 +22,41 @@
 | Sakura, the Kitty and the Orange Marble                                                    |                                                                    |                  40 | Showa                                              | no             | Pet Food (1); Fried Chicken (300)                                                |      0 | Shoe Jump 30% (1); Helm HP 30% (1)                                                                         | cervid; capreolina; rusa |
 | Cleaning Up the Streets                                                                    | \[you must be a mage\]                                             |                  50 | NLC                                                | yes            |                                                                                  | 15,000 | Nocturnal Staff (1)                                                                                        | cervid                   |
 | The Alligators at the Swamp                                                                | The Reason Behind the Mushroom Studies; I Need To Find My Daughter |                  52 | Perion; Kerning                                    | yes            |                                                                                  | 45,000 | Cape INT 60% (1); job-based 10% weapon scroll (1)                                                          | cervid; capreolina; rusa |
-| Find the Maple History Book; Sakura and the Teddy Bear; Doll in the Dark; Soul in the Dark |                                                                    |                  70 | Henesys; (ship to Ossyria); (Ellinia); Ludi; Showa | no             | Teddy's Cotton (50); Zombie Teddy Bear (50); Free Spirit (50)                    |  6,500 | random 30% scroll (3); Medal of Honor (1)                                                                  |                          |
+| Find the Maple History Book; Sakura and the Teddy Bear; Doll in the Dark; Soul in the Dark |                                                                    |                  70 | Henesys; (ship to Ossyria); (Ellinia); Ludi; Showa | no             | Teddy's Cotton (50); Zombie Teddy Bear (50); Free Spirit (50)                    |  6,500 | random 30% scroll (3); Medal of Honor (1)                                                                  | cervid                   |
 | Sabitrama's Life Work                                                                      |                                                                    |                  85 | Sleepy; (Ludi)                                     | no             | Stone Golem Rubble (100); Dark Stone Golem Rubble (100); Sealed Teddy Bear (100) | 15,000 | OA INT 30% (1) **OR** Glove DEX 30% (1)                                                                    | cervid; capreolina       |
 | The Committee Challenges                                                                   | Sabitrama's Life Work                                              |                  85 | Sleepy; (Ludi); Omega                              | no             | Lazy Buffy's Marble (200); Dual Pirate's Propeller (500)                         |  5,000 | GFA 30% (1) **OR** OA INT 30% (1) **OR** Glove DEX 30% (1) **OR** Power Elixir (1)                         |                          |
-| Open Sesame                                                                                | The Committee Challenges                                           |                  85 | Sleepy                                             | no             |                                                                                  |      0 | random 30% scroll (1) **OR** Rower (1) **OR** Elixir (10) **OR** Orihalcon Ore (20) **OR** Fat Sausage (1) |                          |
+| Open Sesame                                                                                | The Committee Challenges                                           |                  85 | Sleepy                                             | no             | mesos (1,000,000)                                                                |      0 | random 30% scroll (1) **OR** Rower (1) **OR** Elixir (10) **OR** Orihalcon Ore (20) **OR** Fat Sausage (1) |                          |
 | An Unknown Love                                                                            |                                                                    |                  85 | Kerning; (Ludi)                                    | no             | Binding Bridle (100)                                                             | 10,000 | OA INT 30% (1); Glove DEX 30% (1)                                                                          |                          |
 | Lam Wants To See the World                                                                 |                                                                    |                  85 | Malaysia                                           | no             | Lucky Bus Ticket (100)                                                           | 15,000 | random 30% scroll (1)                                                                                      |                          |
-| Freed from Darkness                                                                        | Soul in the Dark                                                   |                  90 | Henesys; Showa; (Ludi)                             | no             | Binding Bridle (50); Sealed Teddy Bear (50)                                      | 65,000 | random 30% scroll (2); fame (10); Elixir (2)                                                               |                          |
+| Freed from Darkness                                                                        | Soul in the Dark                                                   |                  90 | Henesys; Showa; (Ludi)                             | no             | Binding Bridle (50); Sealed Teddy Bear (50)                                      | 65,000 | random 30% scroll (2); fame (10); Elixir (2)                                                               | cervid                   |
 
 ## Fame
 
 | name(s)              | prereq(s) | min lvl to complete | location(s) | requires kills | notable collectables            |    EXP | other rewards             | who dunnit |
 | :------------------- | :-------- | ------------------: | :---------- | :------------- | :------------------------------ | -----: | :------------------------ | :--------- |
 | Malek's Joy of Music |           |                  50 | Malaysia    | no             | Coconut Husk (150); Rebab (250) | 90,000 | fame (26); mesos (26,000) | rusa       |
+
+## Open Sesame?
+
+Non-NPC prices use [OwlRepo](https://owlrepo.com/) p25 values, 2021-04-29.
+
+- OA DEF 30% (1): 1
+- Fat Sausage (1): 630
+- Orihalcon Ore (20): 4k
+- Elixir (10): 21k
+- Bottom Jump 30% (1): 70k
+- Rower (1): 170k
+- OA LUK 30% (1): 1.7m
+- Top STR 30% (1): 2m
+- OA DEX 30% (1): 3m
+- OA INT 30% (1): 10m
+
+Min: 1
+
+Max: 10m
+
+Median: 120k (&minus;880k profit)
+
+Mean: 1,696,563 (+697k profit)
+
+Probability of **not** losing money (&ldquo;good&rdquo; outcome): 40%
