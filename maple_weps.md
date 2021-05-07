@@ -1,0 +1,49 @@
+# Maple weapons &amp; their odd jobs
+
+## Key
+
+- Usable weapon for this odd job.
+- _Weapon that is particularly useful, but not crucial; or, can be crucial depending on the exact build._
+- **Weapon that is crucial for this odd job.**
+
+## Data
+
+| name                                                                  | level | type     | odd jobs                                                                                                                                               |
+| :-------------------------------------------------------------------- | ----: | :------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Maple Umbrella](https://maplelegends.com/lib/equip?id=01302058)      |    30 | 1H sword | STRginner, DEXginner, permawarrior, blood warrior, LUK warrior, DEX warrior, STR mage, DEX mage, wood(wo)man, STRlord, brigand, swashbuckler, summoner |
+| [Maple Sword](https://maplelegends.com/lib/equip?id=01302020)         |    35 | 1H sword | STRginner, DEXginner, permawarrior, blood warrior, LUK warrior, DEX warrior, STR mage, DEX mage, wood(wo)man, STRlord, brigand, swashbuckler, summoner |
+| [Maple Soul Singer](https://maplelegends.com/lib/equip?id=01302030)   |    43 | 1H sword | STRginner, DEXginner, permawarrior, blood warrior, LUK warrior, DEX warrior, STR mage, DEX mage, wood(wo)man, STRlord, brigand, swashbuckler, summoner |
+| [Maple Glory Sword](https://maplelegends.com/lib/equip?id=01302064)   |    64 | 1H sword | STRginner, DEXginner, permawarrior, blood warrior, LUK warrior, DEX warrior, STR mage, DEX mage, wood(wo)man, STRlord, brigand, swashbuckler, summoner |
+| [Maple Steel Axe](https://maplelegends.com/lib/equip?id=01312032)     |    64 | 1H axe   | _LUK warrior_, _DEX warrior_, permawarrior, blood warrior                                                                                              |
+| [Maple Havoc Hammer](https://maplelegends.com/lib/equip?id=01322054)  |    64 | 1H BW    | permawarrior, blood warrior, LUK warrior, DEX warrior                                                                                                  |
+| [Maple Soul Rohen](https://maplelegends.com/lib/equip?id=01402039)    |    64 | 2H sword | permawarrior, blood warrior, LUK warrior, DEX warrior                                                                                                  |
+| [Maple Dragon Axe](https://maplelegends.com/lib/equip?id=01412011)    |    43 | 2H axe   | _LUK warrior_, _DEX warrior_, permawarrior, blood warrior                                                                                              |
+| [Maple Demon Axe](https://maplelegends.com/lib/equip?id=01412027)     |    64 | 2H axe   | _LUK warrior_, _DEX warrior_, permawarrior, blood warrior                                                                                              |
+| [Maple Doom Singer](https://maplelegends.com/lib/equip?id=01422014)   |    43 | 2H BW    | _LUK warrior_, _DEX warrior_, permawarrior, blood warrior                                                                                              |
+| [Maple Belzet](https://maplelegends.com/lib/equip?id=01422029)        |    64 | 2H BW    | _LUK warrior_, _DEX warrior_, permawarrior, blood warrior                                                                                              |
+| [Maple Impaler](https://maplelegends.com/lib/equip?id=01432012)       |    43 | spear    | permawarrior, LUK warrior, DEX warrior                                                                                                                 |
+| [Maple Soul Spear](https://maplelegends.com/lib/equip?id=01432040)    |    64 | spear    | permawarrior, LUK warrior, DEX warrior                                                                                                                 |
+| [Maple Scorpio](https://maplelegends.com/lib/equip?id=01442024)       |    43 | polearm  | permawarrior, LUK warrior, DEX warrior                                                                                                                 |
+| [Maple Karstan](https://maplelegends.com/lib/equip?id=01442051)       |    64 | polearm  | permawarrior, LUK warrior, DEX warrior                                                                                                                 |
+| [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)        |    43 | dagger   | _blood dit_, permarogue, daggerlord, LUKless dit                                                                                                       |
+| [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)     |    64 | dagger   | _blood dit_, permarogue, daggerlord, LUKless dit                                                                                                       |
+| [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)  |    64 | dagger   | _blood dit_, permarogue, daggerlord, LUKless dit                                                                                                       |
+| [Maple Shine Wand](https://maplelegends.com/lib/equip?id=01372034)    |    64 | wand     | permamagician, magelet                                                                                                                                 |
+| [Maple Staff](https://maplelegends.com/lib/equip?id=01382009)         |    35 | staff    | permamagician, magelet                                                                                                                                 |
+| [Maple Lama Staff](https://maplelegends.com/lib/equip?id=01382012)    |    43 | staff    | permamagician, magelet                                                                                                                                 |
+| [Maple Wisdom Staff](https://maplelegends.com/lib/equip?id=01382039)  |    64 | staff    | permamagician, magelet                                                                                                                                 |
+| [Maple Bow](https://maplelegends.com/lib/equip?id=01452016)           |    35 | bow      | **wood(wo)man**, permarcher, bow-whacker                                                                                                               |
+| [Maple Soul Searcher](https://maplelegends.com/lib/equip?id=01452022) |    43 | bow      | **wood(wo)man**, permarcher, bow-whacker                                                                                                               |
+| [Maple Kandiva Bow](https://maplelegends.com/lib/equip?id=01452045)   |    64 | bow      | **wood(wo)man**, _permarcher_, bow-whacker                                                                                                             |
+| [Maple Crow](https://maplelegends.com/lib/equip?id=01462014)          |    35 | crossbow | **wood(wo)man**, permarcher, bow-whacker                                                                                                               |
+| [Maple Crossbow](https://maplelegends.com/lib/equip?id=01462019)      |    43 | crossbow | **wood(wo)man**, permarcher, bow-whacker                                                                                                               |
+| [Maple Nishada](https://maplelegends.com/lib/equip?id=01462040)       |    64 | crossbow | **wood(wo)man**, _permarcher_, bow-whacker                                                                                                             |
+| [Maple Claw](https://maplelegends.com/lib/equip?id=01472030)          |    35 | claw     | **STRlord**, _claw-puncher_, permarogue, blood dit, brigand                                                                                            |
+| [Maple Kandayo](https://maplelegends.com/lib/equip?id=01472032)       |    43 | claw     | **STRlord**, _claw-puncher_, permarogue, blood dit, brigand                                                                                            |
+| [Maple Skanda](https://maplelegends.com/lib/equip?id=01472055)        |    64 | claw     | **STRlord**, **claw-puncher**, _permarogue_, blood dit, brigand                                                                                        |
+| [Maple Knuckle](https://maplelegends.com/lib/equip?id=01482020)       |    35 | knuckler | **LUK bucc**, **DEXaneer**, permapirate, swashbuckler, punch slinger                                                                                   |
+| [Maple Storm Finger](https://maplelegends.com/lib/equip?id=01482021)  |    43 | knuckler | **LUK bucc**, **DEXaneer**, permapirate, swashbuckler, punch slinger                                                                                   |
+| [Maple Golden Claw](https://maplelegends.com/lib/equip?id=01482022)   |    64 | knuckler | **LUK bucc**, **DEXaneer**, permapirate, swashbuckler, punch slinger                                                                                   |
+| [Maple Gun](https://maplelegends.com/lib/equip?id=01492020)           |    35 | gun      | **swashbuckler**, _DEXaneer_, permapirate, LUK bucc, bullet bucc, bombadier, pistol-whipper, summoner                                                  |
+| [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=01492021)  |    43 | gun      | **swashbuckler**, _DEXaneer_, permapirate, LUK bucc, bullet bucc, bombadier, pistol-whipper, summoner                                                  |
+| [Maple Canon Shooter](https://maplelegends.com/lib/equip?id=01492022) |    64 | gun      | **swashbuckler**, _DEXaneer_, permapirate, LUK bucc, bullet bucc, bombadier, pistol-whipper, summoner                                                  |
