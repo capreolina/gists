@@ -165,5 +165,6 @@ sorts&rsquo;s to-do list:
 - Get a [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=01492021).
 - Get a [Maple Storm Finger](https://maplelegends.com/lib/equip?id=01482021).
 - Get a [zhelm](https://maplelegends.com/lib/equip?id=01002357).
+- Get a [PAC](https://maplelegends.com/lib/equip?id=01102041).
 - Get the [tier 1 Monster Book
   Ring](https://maplelegends.com/lib/equip?id=01119003).
