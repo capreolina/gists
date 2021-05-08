@@ -77,7 +77,7 @@ Aqu&#xed; hay algunas cosas que debes tener en cuenta:
   usuario\*, as&#xed; eso podr&#xed;a estar dificil. Una
   [smega](https://maplelegends.com/lib/cash?id=5072000) puede o no puede
   funcionar.
-- Comparto equipo mucho entre mis personajes, as&#xed; podr&#xed;a llevarme un
+- Comparto ropas mucho entre mis personajes, as&#xed; podr&#xed;a llevarme
   tiempo equipar cada mula.
 - Si no tienes mucha experiencia con el PQ en cuesti&#xf3;n, no te preocupes.
   Simplemente dime si estas nuevo, o posiblemente tienes una comprensi&#xf3;n
@@ -147,6 +147,40 @@ potpan&rsquo;s to-do list:
 - Get the [tier 1 Monster Book
   Ring](https://maplelegends.com/lib/equip?id=01119003).
 
+<details>
+<summary>En Espa&ntilde;ol</summary>
+
+IGN/nombre de usuario: `potpan`.
+
+Build: bruja F/P de pura INT.
+
+potpan puede:
+
+- Proveer la fuerza bruta necesaria para acabar las fases combativas de MPQ,
+  incluido matando [Angry
+  Franky](https://maplelegends.com/lib/monster?id=9300140) sin ayuda.
+- Completar la &ldquo;puerta de mago&rdquo; en [fase
+  4](https://maplelegends.com/lib/map?id=926100200).
+- Completar la &ldquo;puerta de ladr&#xf3;n&rdquo; en fase 4.
+
+potpan no puede:
+
+- Proteger tan efectivamente Romeo/Juliet en la &#xfa;ltima fase de MPQ. potpan
+  _puede_ protegerlo con [fuerza
+  bruta](https://maplelegends.com/lib/skill?id=2101004), pero no tiene
+  capacidades mas precisas como p. ej. [Blank
+  Shot](https://maplelegends.com/lib/skill?id=5201004). En cualquier caso, es
+  probablamente mejor si potpan se concentra en matando Franken Lloyd.
+
+La lista de quehaceres de potpan:
+
+- Llegar a nivel 85.
+- Obtener un [casco de Ravana](https://maplelegends.com/lib/equip?id=01003068).
+- Obtener el [nivel 1 anillo de Monster
+  Book](https://maplelegends.com/lib/equip?id=01119003).
+
+</details>
+
 ## OPQ (Orbis)
 
 IGN: `sets`.
@@ -182,6 +216,47 @@ sets&rsquo;s to-do list:
   Helmet](https://maplelegends.com/lib/equip?id=01003068) would be even nicer).
 - Get the [tier 1 Monster Book
   Ring](https://maplelegends.com/lib/equip?id=01119003).
+
+<details>
+<summary>En Espa&ntilde;ol</summary>
+
+IGN/nombre de usuario: `sets`.
+
+Build: asesina de pura LUK.
+
+sets puede:
+
+- Proveer [Haste](https://maplelegends.com/lib/skill?id=4101004) al grupo.
+- Completar cualquiera de los JQs en [la fase
+  &ldquo;Lobby&rdquo;](https://maplelegends.com/lib/map?id=920010400) que no
+  exigen [Teleport](https://maplelegends.com/lib/skill?id=2101002).
+- Dirigir [la fase &ldquo;Sealed
+  Room&rdquo;](https://maplelegends.com/lib/map?id=920010500).
+- Completar cualquiera de los cuartos en [la fase
+  &ldquo;Lounge&rdquo;](https://maplelegends.com/lib/map?id=920010600).
+- Proveer la fuerza bruta necesaria para acabar las fases combativas de OPQ,
+  incluido matando [Papa
+  Pixie](https://maplelegends.com/lib/monster?id=9300039) sin ayuda.
+
+sets no puede:
+
+- Usar [Teleport](https://maplelegends.com/lib/skill?id=2101002) para completar
+  los JQs en [la fase
+  &ldquo;Lobby&rdquo;](https://maplelegends.com/lib/map?id=920010400) que
+  exigen este capacidad.
+
+La lista de quehaceres de sets:
+
+- Llegar a nivel 70 y avanzar a hermit.
+- Obtener una [Skanda](https://maplelegends.com/lib/equip?id=01472055).
+- Obtener un casco (probablemente [de
+  Zakum](https://maplelegends.com/lib/equip?id=01002357), pero [de
+  Ravana](https://maplelegends.com/lib/equip?id=01003068) ser&#xed;a aun
+  mejor).
+- Obtener el [nivel 1 anillo de Monster
+  Book](https://maplelegends.com/lib/equip?id=01119003).
+
+</details>
 
 ## LPQ (Ludibrium)
 
@@ -225,3 +300,51 @@ sorts&rsquo;s to-do list:
 - Get a [PAC](https://maplelegends.com/lib/equip?id=01102041).
 - Get the [tier 1 Monster Book
   Ring](https://maplelegends.com/lib/equip?id=01119003).
+
+<details>
+<summary>En Espa&ntilde;ol</summary>
+
+IGN/nombre de usuario: `sorts`.
+
+Build: [brawler de pura
+DEX](https://oddjobs.codeberg.page/odd-jobs.html#dex-brawler).
+
+sorts can:
+
+- Proveer el DPS aut&#xe9;nticamente a distancia necesario para [fase
+  7](https://maplelegends.com/lib/map?id=922010700). S&#xed;, en serio.
+- Completar [la &ldquo;puerta de
+  ladr&#xf3;n&rdquo;](https://maplelegends.com/lib/map?id=922010506) de [fase
+  5](https://maplelegends.com/lib/map?id=922010500).
+- Dirigir el m&#xe9;todo &ldquo;JMS&rdquo; para completar [fase
+  8](https://maplelegends.com/lib/map?id=922010800), empezando en cualquier
+  caja (aunque, prefiero empezar en 4).
+- Completar cualquiera de los portales, &ldquo;f&#xed;sico&rdquo; o
+  &ldquo;m&#xe1;gico&rdquo;\*, de [fase
+  4](https://maplelegends.com/lib/map?id=922010400).
+- Proveer la fuerza bruta necesaria para acabar las fases combativas de OPQ,
+  incluido matando [Alishar](https://maplelegends.com/lib/monster?id=9300012)
+  sin ayuda.
+
+\*En el momento de escribir, sorts necesita un poco mas de niveles y ropas para
+completar portales &ldquo;m&#xe1;gicos&rdquo; tan efectivamente.
+
+sorts no puede:
+
+- Completar [la puerta &ldquo;de
+  mago&rdquo;](https://maplelegends.com/lib/map?id=922010501) de [fase
+  5](https://maplelegends.com/lib/map?id=922010500).
+
+La lista de quehaceres de sorts:
+
+- Llegar a nivel 50.
+- Obtener una [Maple Storm
+  Pistol](https://maplelegends.com/lib/equip?id=01492021).
+- Obtener un [Maple Storm
+  Finger](https://maplelegends.com/lib/equip?id=01482021).
+- Obtener un [casco de Zakum](https://maplelegends.com/lib/equip?id=01002357).
+- Obtener una [PAC](https://maplelegends.com/lib/equip?id=01102041).
+- Obtener el [nivel 1 anillo de Monster
+  Book](https://maplelegends.com/lib/equip?id=01119003).
+
+</details>
