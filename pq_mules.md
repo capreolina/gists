@@ -51,8 +51,8 @@ Here are some things to keep in mind:
 <details>
 <summary>En Espa&ntilde;ol</summary>
 
-OK, tal vez &ldquo;servicios&rdquo; esta diciendo demasiado, pero tengo tres
-mulas PQ quien tienen niveles suficientes para hacer sus PQs respectivos,
+OK, tal vez &ldquo;servicios&rdquo; est&#xe1; diciendo demasiado, pero tengo
+tres mulas PQ quien tienen niveles suficientes para hacer sus PQs respectivos,
 &iexcl;as&#xed; son funcionales! Ojala que puedo ayudar los PQers quien tienen
 dificultades formar un grupo funcional, y al hacerlo, proveer alg&#xfa;n apoyo
 y vida a estas PQs.
