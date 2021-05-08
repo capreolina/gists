@@ -48,6 +48,63 @@ Here are some things to keep in mind:
 
 </details>
 
+<details>
+<summary>En Espa&ntilde;ol</summary>
+
+OK, tal vez &ldquo;servicios&rdquo; esta diciendo demasiado, pero tengo tres
+mulas PQ quien tienen niveles suficientes para hacer sus PQs respectivos,
+&iexcl;as&#xed; son funcionales! Ojala que puedo ayudar los PQers quien tienen
+dificultades formar un grupo funcional, y al hacerlo, proveer alg&#xfa;n apoyo
+y vida a estas PQs.
+
+Aqu&#xed; hay algunas cosas que debes tener en cuenta:
+
+- Ofrezco estas &ldquo;servicios&rdquo; completamente gratis. Nunca
+  exigir&#xe9; pago de cualquier tipo, aunque aceptar&#xed;a donaci&#xf3;nes
+  peque&ntilde;os de cualquier cosas, si te sientes generoso :P
+- Obviamente, no estoy disponible 24/7 para hacer PQs contigo. Posiblemente
+  estoy offline, o en el juego pero ocupada haciendo algunas otras cosas,
+  &iexcl;o tan s&#xf3;lo no tengo ganas de hacer PQs! Pero siempre puedes darle
+  una oportunidad.
+- Hablando de dandole una oportunidad, no dude en enviarme ping (o tal vez
+  enviarme mensaje directo, aunque debo subrayar que no puedo garantizar una
+  respuesta) v&#xed;a Discord; mi nombre de usuario es `deer#1028`. Enviandome
+  ping podr&#xed;a ser parecido a:
+
+  ![R>1 mage for MPQ @deer](ping-me.png "R>1 mage for MPQ @deer")
+
+  Tambien puedes intentar contactarme en el juego, pero tengo muchos nombres de
+  usuario\*, as&#xed; eso podr&#xed;a estar dificil. Una
+  [smega](https://maplelegends.com/lib/cash?id=5072000) puede o no puede
+  funcionar.
+- Comparto equipo mucho entre mis personajes, as&#xed; podr&#xed;a llevarme un
+  tiempo equipar cada mula.
+- Si no tienes mucha experiencia con el PQ en cuesti&#xf3;n, no te preocupes.
+  Simplemente dime si estas nuevo, o posiblemente tienes una comprensi&#xf3;n
+  deficiente de una fase, y estoy tan contenta ayudarte aprenderla.
+- Hablando de comprensi&#xf3;n deficiente, cierto es que tengo una
+  comprensi&#xf3;n deficiente de Espa&ntilde;ol&hellip; &iexcl;pero hago mi
+  mejor esfuerzo!
+
+<details>
+<summary>&ast;Nombres de usuario/IGNs&hellip;</summary>
+
+- `potpan`
+- `sets`
+- `sorts`
+- `cervid`
+- `capreolina`
+- `cervine`
+- `hydropotina`
+- `rusa`
+- `hashishi`
+- `alces`
+- `dama`
+
+</details>
+
+</details>
+
 ## MPQ (Magatia)
 
 <blockquote cite="https://www.gutenberg.org/files/1513/1513-h/1513-h.htm#sceneI_30.5">
