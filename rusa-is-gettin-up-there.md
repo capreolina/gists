@@ -15,9 +15,11 @@
         - ~~Sayram&rsquo;s Necklace (Griffey; quest)~~
         - ~~a key (Jr. Balrog; quest)~~
     - Hex of the Beholder
-        - special scroll (Gatekeeper; quest)
+        - ~~special scroll (Gatekeeper; quest)~~
+        - Viking Sail (200) (Spirit Viking)
     - Aura of the Beholder
-        - special scroll (Thanatos; quest)
+        - ~~special scroll (Thanatos; quest)~~
+        - Binding Bridle (200) (Master Death Teddy)
 - ~~HTP quests~~
     - ~~&ldquo;Secret Medicine for Transformation&rdquo;~~
         - ~~Tough Dragon Skin (10) (Dark Wyvern; quest)~~
