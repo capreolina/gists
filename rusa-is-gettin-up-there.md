@@ -11,9 +11,9 @@
         - ~~Crimson Balrog&rsquo;s Proposal (Crimson Balrog)~~
         - Lycanthrope&rsquo;s Plans (Lycanthrope; quest)
         - ENPQ
-    - Berserk
+    - ~~Berserk~~
         - ~~Sayram&rsquo;s Necklace (Griffey; quest)~~
-        - a key (Jr. Balrog; quest)
+        - ~~a key (Jr. Balrog; quest)~~
     - Hex of the Beholder
         - special scroll (Gatekeeper; quest)
     - Aura of the Beholder
