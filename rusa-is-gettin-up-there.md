@@ -12,14 +12,14 @@
         - Lycanthrope&rsquo;s Plans (Lycanthrope; quest)
         - ENPQ
     - Berserk
-        - Sayram&rsquo;s Necklace (Griffey; quest)
+        - ~~Sayram&rsquo;s Necklace (Griffey; quest)~~
         - a key (Jr. Balrog; quest)
     - Hex of the Beholder
         - special scroll (Gatekeeper; quest)
     - Aura of the Beholder
         - special scroll (Thanatos; quest)
-- HTP quests
-    - &ldquo;Secret Medicine for Transformation&rdquo;
+- ~~HTP quests~~
+    - ~~&ldquo;Secret Medicine for Transformation&rdquo;~~
         - ~~Tough Dragon Skin (10) (Dark Wyvern; quest)~~
         - ~~Cornian&rsquo;s Dagger~~
             - ~~Busted Dagger (Dark Cornian; untradeable)~~
@@ -28,4 +28,4 @@
         - ~~Cornian&rsquo;s Marrow (Green Cornian(/Dark Cornian?); quest)~~
         - ~~Manon&rsquo;s Cry (Manon; quest)~~
         - ~~Skull Shoulder Pad (Dark Cornian)~~
-    - HTPQ
+    - ~~Buy an HTP(?!)~~
