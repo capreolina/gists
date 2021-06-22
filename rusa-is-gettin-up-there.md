@@ -17,9 +17,11 @@
     - Hex of the Beholder
         - ~~special scroll (Gatekeeper; quest)~~
         - Viking Sail (200) (Spirit Viking)
+        - Viking Sail (500) (Spirit Viking)
     - Aura of the Beholder
         - ~~special scroll (Thanatos; quest)~~
-        - Binding Bridle (200) (Master Death Teddy)
+        - ~~Binding Bridle (200) (Master Death Teddy)~~
+        - Binding Bridle (500) (Master Death Teddy)
 - ~~HTP quests~~
     - ~~&ldquo;Secret Medicine for Transformation&rdquo;~~
         - ~~Tough Dragon Skin (10) (Dark Wyvern; quest)~~
