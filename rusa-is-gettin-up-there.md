@@ -9,8 +9,12 @@
         - ~~another 4th job warrior for PQ~~
     - Stance
         - ~~Crimson Balrog&rsquo;s Proposal (Crimson Balrog)~~
-        - Lycanthrope&rsquo;s Plans (Lycanthrope; quest)
+        - ~~Lycanthrope&rsquo;s Plans (Lycanthrope; quest)~~
         - ENPQ
+            - ~~Get Infinity for cervid~~
+            - Get Infinity for Tacgnol
+            - Get Dragon&rsquo;s Breath for capreolina
+            - Get Infinity for LawdHeComin
     - ~~Berserk~~
         - ~~Sayram&rsquo;s Necklace (Griffey; quest)~~
         - ~~a key (Jr. Balrog; quest)~~
@@ -32,4 +36,4 @@
         - ~~Cornian&rsquo;s Marrow (Green Cornian(/Dark Cornian?); quest)~~
         - ~~Manon&rsquo;s Cry (Manon; quest)~~
         - ~~Skull Shoulder Pad (Dark Cornian)~~
-    - ~~Buy an HTP(?!)~~
+    - ~~Buy an HTP(&#x203d;)~~
