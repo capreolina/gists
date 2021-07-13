@@ -26,6 +26,8 @@ Event-only items are not represented here.
 - [For bottoms](#for-bottoms)
 - [For capes](#for-capes)
 - [For gloves](#for-gloves)
+- [For shields](#for-shields)
+- [For shoes](#for-shoes)
 
 ## For weapons
 
@@ -161,17 +163,17 @@ Event-only items are not represented here.
 
 ## For hats
 
-| effect on pass            | P(pass) |       price | sold at               | dropped by                                                                  | awarded by                |
-| :------------------------ | ------: | ----------: | :-------------------- | :-------------------------------------------------------------------------- | :------------------------ |
-| +1 INT                    |    100% |             |                       | Mushmom                                                                     |                           |
-| +2 INT                    |     60% |             |                       | Drake                                                                       |                           |
-| +3 DEX                    |     10% |             |                       | Dyle                                                                        |                           |
-| +5 HP                     |    100% | 35&nbsp;000 | Kerning City          |                                                                             |                           |
-| +10 HP                    |     60% |             |                       | King Clang, Mushmom, Dyle                                                   |                           |
-| +30 HP                    |     10% |             |                       | Jr. Wraith                                                                  |                           |
-| +1 WDEF                   |    100% | 35&nbsp;000 | Ellinia, Kerning City |                                                                             | Pia and the Blue Mushroom |
-| +2 WDEF, +2 MDEF          |     60% |             |                       | Orange Mushroom, Cold Eye, Wild Kargo, Ice Drake, Dark Drake, Mano, Mushmom | Pia and the Blue Mushroom |
-| +5 WDEF, +3 MDEF, +1 WACC |     10% |             |                       | Snail, Mano                                                                 | Pia and the Blue Mushroom |
+| effect on pass            | P(pass) |       price | sold at               | dropped by                                                                  | awarded by                     |
+| :------------------------ | ------: | ----------: | :-------------------- | :-------------------------------------------------------------------------- | :----------------------------- |
+| +1 INT                    |    100% |             |                       | Mushmom                                                                     |                                |
+| +2 INT                    |     60% |             |                       | Drake                                                                       |                                |
+| +3 DEX                    |     10% |             |                       | Dyle                                                                        |                                |
+| +5 HP                     |    100% | 35&nbsp;000 | Kerning City          |                                                                             |                                |
+| +10 HP                    |     60% |             |                       | King Clang, Mushmom, Dyle                                                   |                                |
+| +30 HP                    |     10% |             |                       | Jr. Wraith                                                                  |                                |
+| +1 WDEF                   |    100% | 35&nbsp;000 | Ellinia, Kerning City |                                                                             | Pia and the Blue Mushroom      |
+| +2 WDEF, +2 MDEF          |     60% |             |                       | Orange Mushroom, Cold Eye, Wild Kargo, Ice Drake, Dark Drake, Mano, Mushmom | Pia and the Blue Mushroom      |
+| +5 WDEF, +3 MDEF, +1 WACC |     10% |             |                       | Snail, Mano                                                                 | KPQ, Pia and the Blue Mushroom |
 
 ## For earrings
 
@@ -183,16 +185,16 @@ Event-only items are not represented here.
 
 ## For overalls
 
-| effect on pass            | P(pass) |       price | sold at      | dropped by                  | awarded by                      |
-| :------------------------ | ------: | ----------: | :----------- | :-------------------------- | :------------------------------ |
-| +2 INT, +1 MDEF           |     60% |             |              | King Clang                  |                                 |
-| +5 INT, +3 MDEF, +10 MP   |     10% |             |              | Faust                       | KPQ                             |
-| +1 DEX                    |    100% | 35&nbsp;000 | Kerning City |                             |                                 |
-| +2 DEX, +1 WACC           |     60% |             |              | Mano, Mushmom, Dyle         |                                 |
-| +5 DEX, +3 WACC, +1 SPEED |     10% |             |              | Red Snail, Stumpy           | KPQ                             |
-| +2 LUK, +1 AVOID          |     60% |             |              | Commander Skeleton, Dyle    |                                 |
-| +2 WDEF, +1 MDEF          |     60% |             |              | Ghost Stump, Mushmom, Faust | Sabitrama and the Diet Medicine |
-| +5 WDEF, +3 MDEF, +10 HP  |     10% |             |              | Slime                       | Sabitrama and the Diet Medicine |
+| effect on pass            | P(pass) |       price | sold at      | dropped by                  | awarded by                           |
+| :------------------------ | ------: | ----------: | :----------- | :-------------------------- | :----------------------------------- |
+| +2 INT, +1 MDEF           |     60% |             |              | King Clang                  |                                      |
+| +5 INT, +3 MDEF, +10 MP   |     10% |             |              | Faust                       | KPQ                                  |
+| +1 DEX                    |    100% | 35&nbsp;000 | Kerning City |                             |                                      |
+| +2 DEX, +1 WACC           |     60% |             |              | Mano, Mushmom, Dyle         |                                      |
+| +5 DEX, +3 WACC, +1 SPEED |     10% |             |              | Red Snail, Stumpy           | KPQ                                  |
+| +2 LUK, +1 AVOID          |     60% |             |              | Commander Skeleton, Dyle    |                                      |
+| +2 WDEF, +1 MDEF          |     60% |             |              | Ghost Stump, Mushmom, Faust | Sabitrama and the Diet Medicine      |
+| +5 WDEF, +3 MDEF, +10 HP  |     10% |             |              | Slime                       | KPQ, Sabitrama and the Diet Medicine |
 
 ## For tops
 
@@ -200,7 +202,7 @@ Event-only items are not represented here.
 | :----------------------- | ------: | ----------: | :------ | :------------------------ | :--------- |
 | +1 WDEF                  |    100% | 35&nbsp;000 | Ellinia |                           |            |
 | +2 WDEF, +1 MDEF         |     60% |             |         | Dark Drake, Mano, Mushmom |            |
-| +5 WDEF, +3 MDEF, +10 HP |     10% |             |         | Stump, Mano, Stumpy       |            |
+| +5 WDEF, +3 MDEF, +10 HP |     10% |             |         | Stump, Mano, Stumpy       | KPQ        |
 
 ## For bottoms
 
@@ -209,7 +211,7 @@ Event-only items are not represented here.
 | +3 DEX, +3 SPEED         |     10% |             |                       | Dyle                 |            |
 | +1 WDEF                  |    100% | 35&nbsp;000 | Ellinia, Kerning City |                      |            |
 | +2 WDEF, +1 MDEF         |     60% |             |                       | Mushmom              |            |
-| +5 WDEF, +3 MDEF, +10 HP |     10% |             |                       | Slime, Blue Mushroom |            |
+| +5 WDEF, +3 MDEF, +10 HP |     10% |             |                       | Slime, Blue Mushroom | KPQ        |
 
 ## For capes
 
@@ -236,3 +238,33 @@ Event-only items are not represented here.
 | +5 MDEF, +3 WDEF, +10 MP |     10% |       |         | Stirge, Ligator, Horny Mushroom, Faust                      |                                                        |
 
 ## For gloves
+
+| effect on pass            | P(pass) | price | sold at | dropped by                                                                 | awarded by                                |
+| :------------------------ | ------: | ----: | :------ | :------------------------------------------------------------------------- | :---------------------------------------- |
+| +2 WATK                   |     60% |       |         | Mixed Golem, Skeleton Soldier, Officer Skeleton, King Clang, Mushmom, Dyle | Jane the Alchemist                        |
+| +3 WATK                   |     10% |       |         | Tortie                                                                     | Jane the Alchemist                        |
+| +2 WACC, +1 DEX           |     60% |       |         | Ghost Stump, Stumpy, Mushmom, Faust                                        | KPQ, Rowen the Fairy and the Cursed Dolls |
+| +5 WACC, +3 DEX, +1 AVOID |     10% |       |         | Dark Stump                                                                 | Rowen the Fairy and the Cursed Dolls      |
+
+## For shields
+
+| effect on pass           | P(pass) | price | sold at | dropped by                                                               | awarded by |
+| :----------------------- | ------: | ----: | :------ | :----------------------------------------------------------------------- | :--------- |
+| +2 STR                   |     60% |       |         | Faust                                                                    |            |
+| +30 HP                   |     10% |       |         | Faust                                                                    |            |
+| +2 WDEF, +1 MDEF         |     60% |       |         | Ghost Stump, Wooden Mask, Mixed Golem, Red Drake, Stumpy, Mushmom, Faust |            |
+| +5 WDEF, +3 MDEF, +10 HP |     10% |       |         | Ribbon Pig, Green Mushroom, Jr. Necki, King Clang                        |            |
+
+## For shoes
+
+| effect on pass              | P(pass) |       price | sold at               | dropped by                | awarded by                                                         |
+| :-------------------------- | ------: | ----------: | :-------------------- | :------------------------ | :----------------------------------------------------------------- |
+| +1 JUMP                     |    100% | 35&nbsp;000 | Kerning City          |                           |                                                                    |
+| +2 JUMP, +1 DEX             |     60% |             |                       | King Clang, Mushmom       | Eliminate Monsters from the Site                                   |
+| +5 JUMP, +3 DEX, +1 SPEED   |     10% |             |                       | Orange Mushroom, Skeledog |                                                                    |
+| +1 AVOID                    |    100% | 35&nbsp;000 | Ellinia, Kerning City |                           |                                                                    |
+| +2 AVOID, +1 WACC           |     60% |             |                       | Stumpy, Mushmom           |                                                                    |
+| +5 AVOID, +3 WACC, +1 SPEED |     10% |             |                       | Pig, King Clang, Dyle     |                                                                    |
+| +1 SPEED                    |    100% |             |                       |                           | Shumi&rsquo;s Lost Sack of Money                                   |
+| +2 SPEED                    |     60% |             |                       | Mushmom, Faust            | Eliminate Monsters from the Site, Shumi&rsquo;s Lost Sack of Money |
+| +3 SPEED                    |     10% |             |                       |                           | Shumi&rsquo;s Lost Sack of Money                                   |
