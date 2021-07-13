@@ -16,6 +16,16 @@ Event-only items are not represented here.
     - [For staves](#for-staves)
     - [For bows](#for-bows)
     - [For crossbows](#for-crossbows)
+    - [For claws](#for-claws)
+    - [For knuckler](#for-knuckler)
+    - [For gun](#for-gun)
+- [For hats](#for-hats)
+- [For earrings](#for-earrings)
+- [For overalls](#for-overalls)
+- [For tops](#for-tops)
+- [For bottoms](#for-bottoms)
+- [For capes](#for-capes)
+- [For gloves](#for-gloves)
 
 ## For weapons
 
@@ -123,3 +133,106 @@ Event-only items are not represented here.
 | +1 WATK                  |    100% | 70&nbsp;000 | Ellinia |                                                                  | POLLUTED! \<2-Curse Eye\>                                                                        |
 | +2 WATK, +1 WACC         |     60% |             |         | Stone Golem, King Clang, Dyle, Zombie Mushmom, Faust, Jr. Balrog | POLLUTED! \<2-Curse Eye\>, Jane and the Wild Boar                                                |
 | +5 WATK, +3 WACC, +1 DEX |     10% |             |         |                                                                  | The Alligators at the Swamp, Notice from the Excavation Team, Building a New House For Blackbull |
+
+### For claws
+
+| effect on pass           | P(pass) |       price | sold at      | dropped by                                                                            | awarded by                                                                                       |
+| :----------------------- | ------: | ----------: | :----------- | :------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------- |
+| +1 WATK                  |    100% | 70&nbsp;000 | Kerning City |                                                                                       | POLLUTED! \<2-Curse Eye\>                                                                        |
+| +2 WATK, +1 WACC         |     60% |             |              | Green Mushroom, Skeleton Soldier, King Clang, Zombie Mushmom, Faust, Dyle, Jr. Balrog | POLLUTED! \<2-Curse Eye\>, Jane and the Wild Boar                                                |
+| +5 WATK, +3 WACC, +1 LUK |     10% |             |              | Copper Drake                                                                          | The Alligators at the Swamp, Notice from the Excavation Team, Building a New House For Blackbull |
+
+### For knuckler
+
+| effect on pass           | P(pass) |       price | sold at | dropped by                                            | awarded by                                                                                       |
+| :----------------------- | ------: | ----------: | :------ | :---------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| +1 WATK                  |    100% | 70&nbsp;000 | Ellinia |                                                       | POLLUTED! \<2-Curse Eye\>                                                                        |
+| +2 WATK, +1 STR          |     60% |             |         | Stirge, Croco, Zombie Mushmom                         | POLLUTED! \<2-Curse Eye\>, Jane and the Wild Boar                                                |
+| +5 WATK, +3 STR, +1 WDEF |     10% |             |         | Ligator, Ghost Stump, Lorang, Dark Stone Golem, Faust | The Alligators at the Swamp, Notice from the Excavation Team, Building a New House For Blackbull |
+| +3 WACC, +2 DEX, +1 WATK |     60% |             |         | Dyle                                                  |                                                                                                  |
+
+### For gun
+
+| effect on pass           | P(pass) |       price | sold at | dropped by            | awarded by                                                                                       |
+| :----------------------- | ------: | ----------: | :------ | :-------------------- | :----------------------------------------------------------------------------------------------- |
+| +1 WATK                  |    100% | 70&nbsp;000 | Ellinia |                       | POLLUTED! \<2-Curse Eye\>                                                                        |
+| +2 WATK, +1 WACC         |     60% |             |         | Zombie Mushmom, Faust | POLLUTED! \<2-Curse Eye\>, Jane and the Wild Boar                                                |
+| +5 WATK, +3 WACC, +1 DEX |     10% |             |         | Curse Eye, Mano       | The Alligators at the Swamp, Notice from the Excavation Team, Building a New House For Blackbull |
+
+## For hats
+
+| effect on pass            | P(pass) |       price | sold at               | dropped by                                                                  | awarded by                |
+| :------------------------ | ------: | ----------: | :-------------------- | :-------------------------------------------------------------------------- | :------------------------ |
+| +1 INT                    |    100% |             |                       | Mushmom                                                                     |                           |
+| +2 INT                    |     60% |             |                       | Drake                                                                       |                           |
+| +3 DEX                    |     10% |             |                       | Dyle                                                                        |                           |
+| +5 HP                     |    100% | 35&nbsp;000 | Kerning City          |                                                                             |                           |
+| +10 HP                    |     60% |             |                       | King Clang, Mushmom, Dyle                                                   |                           |
+| +30 HP                    |     10% |             |                       | Jr. Wraith                                                                  |                           |
+| +1 WDEF                   |    100% | 35&nbsp;000 | Ellinia, Kerning City |                                                                             | Pia and the Blue Mushroom |
+| +2 WDEF, +2 MDEF          |     60% |             |                       | Orange Mushroom, Cold Eye, Wild Kargo, Ice Drake, Dark Drake, Mano, Mushmom | Pia and the Blue Mushroom |
+| +5 WDEF, +3 MDEF, +1 WACC |     10% |             |                       | Snail, Mano                                                                 | Pia and the Blue Mushroom |
+
+## For earrings
+
+| effect on pass           | P(pass) |       price | sold at | dropped by                                                      | awarded by |
+| :----------------------- | ------: | ----------: | :------ | :-------------------------------------------------------------- | :--------- |
+| +1 MATK                  |    100% | 35&nbsp;000 | Ellinia | Red Drake                                                       |            |
+| +2 MATK, +1 INT          |     60% |             |         | Rocky Mask, Commander Skeleton, Red Drake, Mano, Mushmom, Faust |            |
+| +5 MATK, +3 INT, +1 MDEF |     10% |             |         | Red Drake, Mano                                                 |            |
+
+## For overalls
+
+| effect on pass            | P(pass) |       price | sold at      | dropped by                  | awarded by                      |
+| :------------------------ | ------: | ----------: | :----------- | :-------------------------- | :------------------------------ |
+| +2 INT, +1 MDEF           |     60% |             |              | King Clang                  |                                 |
+| +5 INT, +3 MDEF, +10 MP   |     10% |             |              | Faust                       | KPQ                             |
+| +1 DEX                    |    100% | 35&nbsp;000 | Kerning City |                             |                                 |
+| +2 DEX, +1 WACC           |     60% |             |              | Mano, Mushmom, Dyle         |                                 |
+| +5 DEX, +3 WACC, +1 SPEED |     10% |             |              | Red Snail, Stumpy           | KPQ                             |
+| +2 LUK, +1 AVOID          |     60% |             |              | Commander Skeleton, Dyle    |                                 |
+| +2 WDEF, +1 MDEF          |     60% |             |              | Ghost Stump, Mushmom, Faust | Sabitrama and the Diet Medicine |
+| +5 WDEF, +3 MDEF, +10 HP  |     10% |             |              | Slime                       | Sabitrama and the Diet Medicine |
+
+## For tops
+
+| effect on pass           | P(pass) |       price | sold at | dropped by                | awarded by |
+| :----------------------- | ------: | ----------: | :------ | :------------------------ | :--------- |
+| +1 WDEF                  |    100% | 35&nbsp;000 | Ellinia |                           |            |
+| +2 WDEF, +1 MDEF         |     60% |             |         | Dark Drake, Mano, Mushmom |            |
+| +5 WDEF, +3 MDEF, +10 HP |     10% |             |         | Stump, Mano, Stumpy       |            |
+
+## For bottoms
+
+| effect on pass           | P(pass) |       price | sold at               | dropped by           | awarded by |
+| :----------------------- | ------: | ----------: | :-------------------- | :------------------- | :--------- |
+| +3 DEX, +3 SPEED         |     10% |             |                       | Dyle                 |            |
+| +1 WDEF                  |    100% | 35&nbsp;000 | Ellinia, Kerning City |                      |            |
+| +2 WDEF, +1 MDEF         |     60% |             |                       | Mushmom              |            |
+| +5 WDEF, +3 MDEF, +10 HP |     10% |             |                       | Slime, Blue Mushroom |            |
+
+## For capes
+
+| effect on pass           | P(pass) | price | sold at | dropped by                                                  | awarded by                                             |
+| :----------------------- | ------: | ----: | :------ | :---------------------------------------------------------- | :----------------------------------------------------- |
+| +1 INT                   |    100% |       |         | Bubbling                                                    |                                                        |
+| +2 INT                   |     60% |       |         | Wooden Mask, Mano, Stumpy, Faust                            | POLLUTED! \<2-Curse Eye\>, The Alligators at the Swamp |
+| +3 INT                   |     10% |       |         | Stumpy, Faust                                               |                                                        |
+| +1 DEX                   |    100% |       |         | Slime, Sakura Cellion                                       |                                                        |
+| +2 DEX                   |     60% |       |         |                                                             | POLLUTED! \<2-Curse Eye\>, The Alligators at the Swamp |
+| +3 DEX                   |     10% |       |         | Green Mushroom                                              |                                                        |
+| +2 STR                   |     60% |       |         | Tortie, King Clang                                          | POLLUTED! \<2-Curse Eye\>, The Alligators at the Swamp |
+| +3 STR                   |     10% |       |         | Mummydog                                                    |                                                        |
+| +1 LUK                   |    100% |       |         | Pig                                                         |                                                        |
+| +2 LUK                   |     60% |       |         | King Clang                                                  | POLLUTED! \<2-Curse Eye\>, The Alligators at the Swamp |
+| +5 HP                    |    100% |       |         | Blue Snail                                                  |                                                        |
+| +10 HP                   |     60% |       |         | Shroom                                                      |                                                        |
+| +20 HP                   |     10% |       |         | Stump, Dyle                                                 |                                                        |
+| +5 MP                    |    100% |       |         | Red Snail, Orange Mushroom                                  |                                                        |
+| +10 MP                   |     60% |       |         | Lupin, Stumpy                                               |                                                        |
+| +3 WDEF, +1 MDEF         |     60% |       |         | Snail, Bubbling, Dark Drake, Stumpy, King Clang, Mushmom    |                                                        |
+| +5 WDEF, +3 MDEF, +10 HP |     10% |       |         | King Clang                                                  |                                                        |
+| +3 MDEF, +1 WDEF         |     60% |       |         | Snail, Blue Snail, Slime, Dark Drake, Dyle, Stumpy, Mushmom |                                                        |
+| +5 MDEF, +3 WDEF, +10 MP |     10% |       |         | Stirge, Ligator, Horny Mushroom, Faust                      |                                                        |
+
+## For gloves

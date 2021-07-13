@@ -79,18 +79,20 @@ Event-only items are not represented here.
 
 ### WATK
 
-| name                | effect  | duration | price | WATK&sdot;s/meso | s/meso | sold at                                                                | dropped by                           | awarded by |
-| :------------------ | :------ | -------: | ----: | ---------------: | -----: | :--------------------------------------------------------------------- | :----------------------------------- | :--------- |
-| Warrior Potion      | +5 WATK |    3 min |   500 |              1.8 |   0.36 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Commander Skeleton, Drake, Wild Boar |            |
-| Drake&rsquo;s Blood | +8 WATK |    5 min |       |                  |        |                                                                        | Drake                                |            |
+| name                | effect                         | duration | price | WATK&sdot;s/meso | s/meso | sold at                                                                | dropped by                           | awarded by |
+| :------------------ | :----------------------------- | -------: | ----: | ---------------: | -----: | :--------------------------------------------------------------------- | :----------------------------------- | :--------- |
+| Warrior Potion      | +5 WATK                        |    3 min |   500 |              1.8 |   0.36 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Commander Skeleton, Drake, Wild Boar |            |
+| Drake&rsquo;s Blood | +8 WATK                        |    5 min |       |                  |        |                                                                        | Drake                                |            |
+| Onyx Apple          | +100 WATK, +100 MATK, +20 WDEF |   10 min |       |                  |        |                                                                        |                                      | APQ        |
 
 ### MATK
 
-| name                | effect   | duration | price | MATK&sdot;s/meso | s/meso | sold at                                                                | dropped by                                             | awarded by |
-| :------------------ | :------- | -------: | ----: | ---------------: | -----: | :--------------------------------------------------------------------- | :----------------------------------------------------- | :--------- |
-| Magic Potion        | +5 MATK  |    3 min |   500 |              1.8 |   0.36 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Blue Mushroom, Faust                                   |            |
-| Wizard Potion       | +10 MATK |    3 min |       |                  |        |                                                                        | Horny Mushroom, Wooden Mask, Commander Skeleton, Faust |            |
-| Sap of Ancient Tree | +10 MATK |    5 min |       |                  |        |                                                                        | Dark Axe Stump, Stumpy                                 |            |
+| name                | effect                         | duration | price | MATK&sdot;s/meso | s/meso | sold at                                                                | dropped by                                             | awarded by |
+| :------------------ | :----------------------------- | -------: | ----: | ---------------: | -----: | :--------------------------------------------------------------------- | :----------------------------------------------------- | :--------- |
+| Magic Potion        | +5 MATK                        |    3 min |   500 |              1.8 |   0.36 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Blue Mushroom, Faust                                   |            |
+| Wizard Potion       | +10 MATK                       |    3 min |       |                  |        |                                                                        | Horny Mushroom, Wooden Mask, Commander Skeleton, Faust |            |
+| Sap of Ancient Tree | +10 MATK                       |    5 min |       |                  |        |                                                                        | Dark Axe Stump, Stumpy                                 |            |
+| Onyx Apple          | +100 MATK, +100 WATK, +20 WDEF |   10 min |       |                  |        |                                                                        |                                                        | APQ        |
 
 ### WACC
 
@@ -115,9 +117,10 @@ Event-only items are not represented here.
 
 ### WDEF
 
-| name               | effect   | duration | price | SPEED&sdot;s/meso | s/meso | sold at | dropped by | awarded by |
-| :----------------- | :------- | -------: | ----: | ----------------: | -----: | :------ | :--------- | :--------- |
-| Drake&rsquo;s Meat | +10 WDEF |    5 min |       |                   |        |         | Drake      |            |
+| name               | effect                         | duration | price | SPEED&sdot;s/meso | s/meso | sold at | dropped by | awarded by |
+| :----------------- | :----------------------------- | -------: | ----: | ----------------: | -----: | :------ | :--------- | :--------- |
+| Drake&rsquo;s Meat | +10 WDEF                       |    5 min |       |                   |        |         | Drake      |            |
+| Onyx Apple         | +20 WDEF, +100 WATK, +100 MATK |   10 min |       |                   |        |         |            | APQ        |
 
 ## Curatives
 
