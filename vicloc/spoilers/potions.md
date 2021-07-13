@@ -17,7 +17,7 @@ Event-only items are not represented here.
 
 ## HP
 
-| name            | effect                         |                      price |               HP/meso | sold at                                                                                                           | dropped by                                                                                                                                                                                                                                                                                                            | rewarded by                                                                                                                                                                        |
+| name            | effect                         |                      price |               HP/meso | sold at                                                                                                           | dropped by                                                                                                                                                                                                                                                                                                            | awarded by                                                                                                                                                                         |
 | :-------------- | :----------------------------- | -------------------------: | --------------------: | :---------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Red Potion      | +50 HP                         |                         50 |                 1.000 | Sleepywood, Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Florina Beach, Henesys                 | Stump, Orange Mushroom, Pig, Shroom, Octopus, Red Snail, Blue Snail, Snail, Bubbling, Dark Stump, Ribbon Pig, Slime, Axe Stump, Ghost Stump, Green Mushroom                                                                                                                                                           | New Life, Maria And Shanks, The Reason Behind the Mushroom Studies, I&rsquo;m Bored, DANGER! \<1-G. Mushroom\>, Planting Trees, Sam&rsquo;s Request, \[first job training quests\] |
 | Egg             | +50 HP                         |                         50 |                 1.000 | Sleepywood, Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Florina Beach, Henesys                 |                                                                                                                                                                                                                                                                                                                       | Winston&rsquo;s Fossil Dig-up, Mai&rsquo;s Training                                                                                                                                |
@@ -51,7 +51,7 @@ Event-only items are not represented here.
 
 ## MP
 
-| name            | effect                         |                      price |               MP/meso | sold at                                                                                           | dropped by                                                                                                                                                                                                                                                                                                                                                                                                                                              | rewarded by                                                                                                                                                |
+| name            | effect                         |                      price |               MP/meso | sold at                                                                                           | dropped by                                                                                                                                                                                                                                                                                                                                                                                                                                              | awarded by                                                                                                                                                 |
 | :-------------- | :----------------------------- | -------------------------: | --------------------: | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Orange          | +50 MP                         |                        100 |                 0.500 | Sleepywood, Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Florina Beach, Henesys | Jr. Necki                                                                                                                                                                                                                                                                                                                                                                                                                                               | Mai&rsquo;s Training                                                                                                                                       |
 | Blue Potion     | +100 MP                        |                        200 |                 0.500 | Sleepywood, Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Florina Beach, Henesys | Stone Golem, Rocky Mask, Jr. Boogie, Clang, Stirge, Mummydog, Lupin, Dark Stone Golem, Evil Eye, Malady, Iron Hog, Tortie, King Clang, Iron Boar, Mixed Golem, Zombie Lupin, Ligator, Stumpy, Octopus, Dark Axe Stump, Zombie Mushroom, Bubbling, Croco, Cold Eye, Wooden Mask, Wild Boar, Horny Mushroom, Faust, Axe Stump, Fire Boar, Wraith, Skeledog, Skeleton Soldier, Curse Eye, Lorang, Blue Mushroom, Copper Drake, Ghost Stump, Green Mushroom | Maria And Shanks, I Need Help On My Homework!, I&rsquo;m Bored, DANGER! \<3-Z. Mushroom\>, Eliminate Monsters from the Site, \[first job training quests\] |
@@ -79,51 +79,51 @@ Event-only items are not represented here.
 
 ### WATK
 
-| name                | effect  | duration | price | WATK&sdot;s/meso | s/meso | sold at                                                                | dropped by                           | rewarded by |
-| :------------------ | :------ | -------: | ----: | ---------------: | -----: | :--------------------------------------------------------------------- | :----------------------------------- | :---------- |
-| Warrior Potion      | +5 WATK |    3 min |   500 |              1.8 |   0.36 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Commander Skeleton, Drake, Wild Boar |             |
-| Drake&rsquo;s Blood | +8 WATK |    5 min |       |                  |        |                                                                        | Drake                                |             |
+| name                | effect  | duration | price | WATK&sdot;s/meso | s/meso | sold at                                                                | dropped by                           | awarded by |
+| :------------------ | :------ | -------: | ----: | ---------------: | -----: | :--------------------------------------------------------------------- | :----------------------------------- | :--------- |
+| Warrior Potion      | +5 WATK |    3 min |   500 |              1.8 |   0.36 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Commander Skeleton, Drake, Wild Boar |            |
+| Drake&rsquo;s Blood | +8 WATK |    5 min |       |                  |        |                                                                        | Drake                                |            |
 
 ### MATK
 
-| name                | effect   | duration | price | MATK&sdot;s/meso | s/meso | sold at                                                                | dropped by                                             | rewarded by |
-| :------------------ | :------- | -------: | ----: | ---------------: | -----: | :--------------------------------------------------------------------- | :----------------------------------------------------- | :---------- |
-| Magic Potion        | +5 MATK  |    3 min |   500 |              1.8 |   0.36 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Blue Mushroom, Faust                                   |             |
-| Wizard Potion       | +10 MATK |    3 min |       |                  |        |                                                                        | Horny Mushroom, Wooden Mask, Commander Skeleton, Faust |             |
-| Sap of Ancient Tree | +10 MATK |    5 min |       |                  |        |                                                                        | Dark Axe Stump, Stumpy                                 |             |
+| name                | effect   | duration | price | MATK&sdot;s/meso | s/meso | sold at                                                                | dropped by                                             | awarded by |
+| :------------------ | :------- | -------: | ----: | ---------------: | -----: | :--------------------------------------------------------------------- | :----------------------------------------------------- | :--------- |
+| Magic Potion        | +5 MATK  |    3 min |   500 |              1.8 |   0.36 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Blue Mushroom, Faust                                   |            |
+| Wizard Potion       | +10 MATK |    3 min |       |                  |        |                                                                        | Horny Mushroom, Wooden Mask, Commander Skeleton, Faust |            |
+| Sap of Ancient Tree | +10 MATK |    5 min |       |                  |        |                                                                        | Dark Axe Stump, Stumpy                                 |            |
 
 ### WACC
 
-| name                            | effect                         | duration | price | WACC&sdot;s/meso | s/meso | sold at                                                                | dropped by | rewarded by |
-| :------------------------------ | :----------------------------- | -------: | ----: | ---------------: | -----: | :--------------------------------------------------------------------- | :--------- | :---------- |
-| Sniper Potion                   | +5 WACC                        |    5 min |   500 |              3.0 |   0.60 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys |            |             |
-| Victoria&rsquo;s Amorian Basket | +40 WACC, +40 AVOID, +40 SPEED |   10 min |       |                  |        |                                                                        |            | APQ         |
+| name                            | effect                         | duration | price | WACC&sdot;s/meso | s/meso | sold at                                                                | dropped by | awarded by |
+| :------------------------------ | :----------------------------- | -------: | ----: | ---------------: | -----: | :--------------------------------------------------------------------- | :--------- | :--------- |
+| Sniper Potion                   | +5 WACC                        |    5 min |   500 |              3.0 |   0.60 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys |            |            |
+| Victoria&rsquo;s Amorian Basket | +40 WACC, +40 AVOID, +40 SPEED |   10 min |       |                  |        |                                                                        |            | APQ        |
 
 ### AVOID
 
-| name                            | effect                         | duration | price | AVOID&sdot;s/meso | s/meso | sold at                                                                | dropped by                                                | rewarded by |
-| :------------------------------ | :----------------------------- | -------: | ----: | ----------------: | -----: | :--------------------------------------------------------------------- | :-------------------------------------------------------- | :---------- |
-| Dexterity Potion                | +5 AVOID                       |    3 min |   500 |               1.8 |   0.36 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Zombie Mushroom, Rocky Mask, Officer Skeleton, King Clang |             |
-| Victoria&rsquo;s Amorian Basket | +40 AVOID, +40 WACC, +40 SPEED |   10 min |       |                   |        |                                                                        |                                                           | APQ         |
+| name                            | effect                         | duration | price | AVOID&sdot;s/meso | s/meso | sold at                                                                | dropped by                                                | awarded by |
+| :------------------------------ | :----------------------------- | -------: | ----: | ----------------: | -----: | :--------------------------------------------------------------------- | :-------------------------------------------------------- | :--------- |
+| Dexterity Potion                | +5 AVOID                       |    3 min |   500 |               1.8 |   0.36 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Zombie Mushroom, Rocky Mask, Officer Skeleton, King Clang |            |
+| Victoria&rsquo;s Amorian Basket | +40 AVOID, +40 WACC, +40 SPEED |   10 min |       |                   |        |                                                                        |                                                           | APQ        |
 
 ### SPEED
 
-| name                            | effect                         | duration | price | SPEED&sdot;s/meso | s/meso | sold at                                                                | dropped by            | rewarded by |
-| :------------------------------ | :----------------------------- | -------: | ----: | ----------------: | -----: | :--------------------------------------------------------------------- | :-------------------- | :---------- |
-| Speed Potion                    | +8 SPEED                       |    3 min |   400 |               3.6 |   0.45 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Evil Eye, Drake, Dyle |             |
-| Victoria&rsquo;s Amorian Basket | +40 SPEED, +40 WACC, +40 AVOID |   10 min |       |                   |        |                                                                        |                       | APQ         |
+| name                            | effect                         | duration | price | SPEED&sdot;s/meso | s/meso | sold at                                                                | dropped by            | awarded by |
+| :------------------------------ | :----------------------------- | -------: | ----: | ----------------: | -----: | :--------------------------------------------------------------------- | :-------------------- | :--------- |
+| Speed Potion                    | +8 SPEED                       |    3 min |   400 |               3.6 |   0.45 | Kerning City, Nautilus Harbour, Perion, Lith Harbour, Ellinia, Henesys | Evil Eye, Drake, Dyle |            |
+| Victoria&rsquo;s Amorian Basket | +40 SPEED, +40 WACC, +40 AVOID |   10 min |       |                   |        |                                                                        |                       | APQ        |
 
 ### WDEF
 
-| name               | effect   | duration | price | SPEED&sdot;s/meso | s/meso | sold at | dropped by | rewarded by |
-| :----------------- | :------- | -------: | ----: | ----------------: | -----: | :------ | :--------- | :---------- |
-| Drake&rsquo;s Meat | +10 WDEF |    5 min |       |                   |        |         | Drake      |             |
+| name               | effect   | duration | price | SPEED&sdot;s/meso | s/meso | sold at | dropped by | awarded by |
+| :----------------- | :------- | -------: | ----: | ----------------: | -----: | :------ | :--------- | :--------- |
+| Drake&rsquo;s Meat | +10 WDEF |    5 min |       |                   |        |         | Drake      |            |
 
 ## Curatives
 
-| name       | effect             | price | sold at                                | dropped by | rewarded by |
-| :--------- | :----------------- | ----: | :------------------------------------- | :--------- | :---------- |
-| Antidote   | Cures poison       |   200 | Kerning City, Perion, Ellinia, Henesys |            |             |
-| Eyedrop    | Cures darkness     |   200 | Kerning City, Perion, Ellinia, Henesys |            |             |
-| Holy Water | Cures curse & seal |   500 | Ellinia                                |            |             |
-| Tonic      | Cures weakness     |   300 | Kerning City, Perion, Ellinia, Henesys |            |             |
+| name       | effect             | price | sold at                                | dropped by | awarded by |
+| :--------- | :----------------- | ----: | :------------------------------------- | :--------- | :--------- |
+| Antidote   | Cures poison       |   200 | Kerning City, Perion, Ellinia, Henesys |            |            |
+| Eyedrop    | Cures darkness     |   200 | Kerning City, Perion, Ellinia, Henesys |            |            |
+| Holy Water | Cures curse & seal |   500 | Ellinia                                |            |            |
+| Tonic      | Cures weakness     |   300 | Kerning City, Perion, Ellinia, Henesys |            |            |
