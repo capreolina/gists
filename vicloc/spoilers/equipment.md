@@ -205,13 +205,15 @@ that is equippable by more than one archetype.
 
 ## Capes
 
-| name             | level | stat reqs | stats            | slots | dropped by       | awarded by                | sold at | craftable at |
-| :--------------- | ----: | :-------- | :--------------- | ----: | :--------------- | :------------------------ | :------ | :----------- |
-| Old Raggedy Cape |    25 |           | 10 AVOID         |     5 |                  | Mystery of Niora Hospital |         |              |
-| Red Magic Cape   |    60 |           | 16 WDEF, 21 MDEF |     5 | Wild Kargo       |                           |         |              |
-| Black Magic Cape |    60 |           | 18 WDEF, 23 MDEF |     5 | Dark Stone Golem |                           |         |              |
-| Blue Seraph Cape |    75 |           | 25 WDEF, 30 MDEF |     5 | Tauromacis       |                           |         |              |
-| Red Seraph Cape  |    75 |           | 25 WDEF, 30 MDEF |     5 | Taurospear       |                           |         |              |
+| name                     | level | stat reqs | stats            | slots | dropped by       | awarded by                | sold at | craftable at |
+| :----------------------- | ----: | :-------- | :--------------- | ----: | :--------------- | :------------------------ | :------ | :----------- |
+| Old Raggedy Cape         |    25 |           | 10 AVOID         |     5 |                  | Mystery of Niora Hospital |         |              |
+| Amos&rsquo;s Royal Cape  |    50 |           | 20 WDEF, 18 MDEF |     5 |                  | APQ                       |         |              |
+| Amos&rsquo;s Spirit Cape |    50 |           | 18 WDEF, 20 MDEF |     5 |                  | APQ                       |         |              |
+| Red Magic Cape           |    60 |           | 16 WDEF, 21 MDEF |     5 | Wild Kargo       |                           |         |              |
+| Black Magic Cape         |    60 |           | 18 WDEF, 23 MDEF |     5 | Dark Stone Golem |                           |         |              |
+| Blue Seraph Cape         |    75 |           | 25 WDEF, 30 MDEF |     5 | Tauromacis       |                           |         |              |
+| Red Seraph Cape          |    75 |           | 25 WDEF, 30 MDEF |     5 | Taurospear       |                           |         |              |
 
 ## Gloves
 
