@@ -6,4 +6,5 @@
 4. You may not make use of Myo Myo the Traveling Salesman (an NX/Cash Shop item).
 5. You may not make use of Cash Shop “Weather” effects that grant game-mechanical benefits, e.g. WATK/MATK/WDEF/etc. buffs.
 6. You may not receive leech, from anyone (vicloc or not), for any price (including zero).
-7. You may not HP wash nor MP wash. Obviously you can still “bloodwash” and/or “bluewash”, as these are not actually washing at all.
+7. You may not HP wash nor MP wash. Obviously you can still “bloodwash” (add AP into HP permanently) and/or “bluewash” (add AP into MP permanently), as these are not actually washing at all.
+8. You may not make use of buff mules (HS mules, SE mules, HB mules, etc.).
