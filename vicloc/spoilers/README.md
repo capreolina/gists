@@ -2,7 +2,7 @@
 
 **_⚠️⚠️⚠️ BE YE WARNED: THERE BE SPOILERS HERE!!! ⚠️⚠️⚠️_**
 
-If you want to discover everything yourself, this is not the directory for you.
-Look no further. Turn back now, or forever lose thine ignorance.
+**The contents of this directory have been permanently moved! See
+<https://codeberg.org/Victoria/resources>**
 
 **_⚠️⚠️⚠️ YE HAVE BEEN WARNED!!! ⚠️⚠️⚠️_**
