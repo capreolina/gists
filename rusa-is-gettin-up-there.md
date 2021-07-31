@@ -13,7 +13,7 @@
         - ENPQ
             - ~~Get Infinity for cervid~~
             - Get Infinity for Tacgnol
-            - Get Dragon&rsquo;s Breath for capreolina
+            - ~~Get Dragon&rsquo;s Breath for capreolina~~
             - Get Infinity for LawdHeComin
     - ~~Berserk~~
         - ~~Sayram&rsquo;s Necklace (Griffey; quest)~~
