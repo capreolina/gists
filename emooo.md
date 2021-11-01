@@ -1,5 +1,9 @@
 &ldquo;genre(s)&rdquo; implicitly includes &ldquo;emo&rdquo; or whatever.
 
+This list is intentionally designed to (mostly) avoid screamo. As a result, a
+lot (most?) of this stuff ultimately stems from the &ldquo;midwest emo&rdquo;
+strain of post-hardcore.
+
 Entries are listed in roughly descending order of importance.
 
 Slint and Indian Summer are just on here because they are responsible for
