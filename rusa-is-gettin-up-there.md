@@ -7,17 +7,16 @@
     - ~~Rush~~
         - ~~Indecipherable Book (Taurospear)~~
         - ~~another 4th job warrior for PQ~~
-    - Stance
+    - ~~Stance~~
         - ~~Crimson Balrog&rsquo;s Proposal (Crimson Balrog)~~
         - ~~Lycanthrope&rsquo;s Plans (Lycanthrope; quest)~~
-        - ENPQ
+        - ~~ENPQ~~
             - ~~Get Infinity for cervid~~
-            - Get Infinity for Tacgnol
             - ~~Get Dragon&rsquo;s Breath for capreolina~~
             - ~~Get Infinity for LawdHeComin~~
             - ~~Get Dragon&rsquo;s Breath for xBowtjuhNL~~
             - ~~Get Taunt for Harlez~~
-            - Get Infinity for Gruzz(?)
+            - ~~Get Infinity for Gruzz~~
     - ~~Berserk~~
         - ~~Sayram&rsquo;s Necklace (Griffey; quest)~~
         - ~~a key (Jr. Balrog; quest)~~
@@ -29,6 +28,7 @@
         - ~~special scroll (Thanatos; quest)~~
         - ~~Binding Bridle (200) (Master Death Teddy)~~
         - ~~Binding Bridle (500) (Master Death Teddy)~~
+    - Hero&rsquo;s Will
 - ~~HTP quests~~
     - ~~&ldquo;Secret Medicine for Transformation&rdquo;~~
         - ~~Tough Dragon Skin (10) (Dark Wyvern; quest)~~
