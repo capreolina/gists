@@ -14,7 +14,7 @@
             - ~~Get Infinity for cervid~~
             - Get Infinity for Tacgnol
             - ~~Get Dragon&rsquo;s Breath for capreolina~~
-            - Get Infinity for LawdHeComin
+            - ~~Get Infinity for LawdHeComin~~
             - ~~Get Dragon&rsquo;s Breath for xBowtjuhNL~~
             - ~~Get Taunt for Harlez~~
     - ~~Berserk~~
