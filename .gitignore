@@ -1,3 +1,5 @@
+*.bak
+
 # Text editor garbage
 .vscode/
 *.swp
