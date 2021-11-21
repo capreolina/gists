@@ -1,6 +1,6 @@
 # What’s next for Oddjobs? Survey results
 
-Total response count: 8
+Total response count: 9
 
 I want to make clear that, although some of this discussion centres specifically around **Oddjobs**, I do mean that **the discussion in general should apply to all odd job players in MapleLegends**, including — but _not_ limited to — those in **Suboptimal**.
 
@@ -39,7 +39,7 @@ timeframe,response count
 00:00–04:00,3
 04:00–08:00,5
 08:00–12:00,5
-12:00–16:00,3
+12:00–16:00,4
 16:00–20:00,3
 20:00–00:00,4
 ```
