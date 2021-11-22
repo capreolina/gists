@@ -1,6 +1,6 @@
 # What’s next for Oddjobs? Survey results
 
-Total response count: 9
+Total response count: 10
 
 I want to make clear that, although some of this discussion centres specifically around **Oddjobs**, I do mean that **the discussion in general should apply to all odd job players in MapleLegends**, including — but _not_ limited to — those in **Suboptimal**.
 
@@ -36,8 +36,8 @@ Someone [wrote in](https://en.wikipedia.org/wiki/Write-in_candidate) [Zakum](htt
 
 ```csv
 timeframe,response count
-00:00–04:00,3
-04:00–08:00,5
+00:00–04:00,4
+04:00–08:00,6
 08:00–12:00,5
 12:00–16:00,4
 16:00–20:00,3
@@ -46,7 +46,7 @@ timeframe,response count
 
 </details>
 
-Again, the responses are pretty spread out here, which is perhaps unfortunate, but to be expected — Oddjobs is not a guild with a geographical centre. That being said, the [modal][mode] response was essentially 04:00–12:00, so that’s good to know.
+Again, the responses are pretty spread out here, which is perhaps unfortunate, but to be expected — Oddjobs is not a guild with a geographical centre. That being said, the [modal][mode] response was essentially 04:00–12:00 (particularly the earlier portions of this timespan), so that’s good to know.
 
 ### Other ideas
 
