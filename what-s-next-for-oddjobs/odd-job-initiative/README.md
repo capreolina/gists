@@ -1,7 +1,7 @@
 # Odd job initiative
 
 - [x] Expand guild
-- [ ] Reaching out
+- [ ] Reach out
     - [ ] Smegas
         - [x] Write some smegas
         - [x] Start smegaing regularly
@@ -22,12 +22,12 @@
         - [ ] Post in MR islander Discord
         - [ ] Post in other Discord(s)
 - [ ] Focus on those who are already involved
-    - [ ] Activities we can do together
+    - [ ] Set up activities that we can do together
         - [ ] Schedule regular runs!
         - [ ] Try to put together a(n) SPQ run(s)
         - [ ] Try to schedule a third Ravana attempt
 - [ ] Revisit Oddjobs website & guides
-    - [ ] Copyediting
+    - [ ] Copyedit
 
 ## Message sent to JoblessMS Discord
 
