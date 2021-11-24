@@ -7,7 +7,7 @@
         - [x] Start smegaing regularly
         - [x] Get other folks to help smega recruit
     - [ ] ML Discord
-        - [ ] Write a recruitment message
+        - [x] Write recruitment message(s)
         - [ ] Start posting in `#recruitment` regularly
     - [ ] ML forums
         - [ ] Write & post Odd Job Field Guide
@@ -38,7 +38,7 @@ Wherever the MapleStory odd job community can thrive, I’d like to make that th
 
 Oddjobs has a dedicated website, which you can find at <https://oddjobs.codeberg.page/>. You can find some information about joining the guild within the “Join On Up” page, including the guild rules, and some information about how to contact me. Feel more than free to DM me about it here on Discord, and/or reach out to me in-game, and/or apply on the MapleLegends forums (<https://forum.maplelegends.com/index.php?threads/oddjobs.34994/>), and/or apply on the Oddjobs forums (<https://oddjobs.flarum.cloud/>)!
 
-I asked for permission from @GMSlut to post this here — as it would otherwise be quite rude to advertise something from another server — because I genuinely want to revitalise the oddball MapleStory community. The guilds in Suboptimal have suffered from dwindling numbers & inactivity, and I want to help ameliorate the inactivity that is seen with odd-jobbers in MapleLegends and MapleStory in general. I hope to somehow reconnect the oddball MapleStory community with each other again, and I hope that y’all would consider taking a chance on MapleLegends, because I truly think it would be awesome to see oddball maplers thrive once again!! c: \<3
+I asked for permission from \@GMSlut to post this here — as it would otherwise be quite rude to advertise something from another server — because I genuinely want to revitalise the oddball MapleStory community. The guilds in Suboptimal have suffered from dwindling numbers & inactivity, and I want to help ameliorate the inactivity that is seen with odd-jobbers in MapleLegends and MapleStory in general. I hope to somehow reconnect the oddball MapleStory community with each other again, and I hope that y’all would consider taking a chance on MapleLegends, because I truly think it would be awesome to see oddball maplers thrive once again!! c: \<3
 
 ## Message sent to ML islander Discord
 
