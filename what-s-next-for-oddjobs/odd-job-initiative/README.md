@@ -25,6 +25,7 @@
     - [ ] Set up activities that we can do together
         - [ ] Schedule regular runs!
         - [ ] Try to put together a(n) SPQ run(s)
+            - [ ] Make an SPQ/KPQ mule
         - [ ] Try to schedule a third Ravana attempt
 - [ ] Revisit Oddjobs website & guides
     - [ ] Copyedit
