@@ -2,13 +2,13 @@
 
 - [x] Expand guild
 - [ ] Reach out
-    - [ ] Smegas
+    - [x] Smegas
         - [x] Write some smegas
         - [x] Start smegaing regularly
         - [x] Get other folks to help smega recruit
-    - [ ] ML Discord
+    - [x] ML Discord
         - [x] Write recruitment message(s)
-        - [ ] Start posting in `#recruitment` regularly
+        - [x] Start posting in `#recruitment` regularly
     - [ ] ML forums
         - [ ] Write & post Odd Job Field Guide
         - [ ] Bump the Oddjobs recruiting thread
@@ -38,7 +38,7 @@ Wherever the MapleStory odd job community can thrive, I’d like to make that th
 
 Oddjobs has a dedicated website, which you can find at <https://oddjobs.codeberg.page/>. You can find some information about joining the guild within the “Join On Up” page, including the guild rules, and some information about how to contact me. Feel more than free to DM me about it here on Discord, and/or reach out to me in-game, and/or apply on the MapleLegends forums (<https://forum.maplelegends.com/index.php?threads/oddjobs.34994/>), and/or apply on the Oddjobs forums (<https://oddjobs.flarum.cloud/>)!
 
-I asked for permission from \@GMSlut to post this here — as it would otherwise be quite rude to advertise something from another server — because I genuinely want to revitalise the oddball MapleStory community. The guilds in Suboptimal have suffered from dwindling numbers & inactivity, and I want to help ameliorate the inactivity that is seen with odd-jobbers in MapleLegends and MapleStory in general. I hope to somehow reconnect the oddball MapleStory community with each other again, and I hope that y’all would consider taking a chance on MapleLegends, because I truly think it would be awesome to see oddball maplers thrive once again!! c: \<3
+I asked for permission from `@GMSlut` to post this here — as it would otherwise be quite rude to advertise something from another server — because I genuinely want to revitalise the oddball MapleStory community. The guilds in Suboptimal have suffered from dwindling numbers & inactivity, and I want to help ameliorate the inactivity that is seen with odd-jobbers in MapleLegends and MapleStory in general. I hope to somehow reconnect the oddball MapleStory community with each other again, and I hope that y’all would consider taking a chance on MapleLegends, because I truly think it would be awesome to see oddball maplers thrive once again!! c: \<3
 
 ## Message sent to ML islander Discord
 
@@ -92,6 +92,19 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
   Suboptimal is an alliance of four guilds (**Oddjobs** <https://oddjobs.codeberg.page/>, **Southperry**, **Flow**, & **Victoria**) seeking to promote oddball MapleStory!
 
   We are looking particularly for those dedicated to playing odd-jobbed characters like permabeginners, islanders, STR mages, & HP warriors (see <https://oddjobs.codeberg.page/odd-jobs.html> for a non-exhaustive list of a few odd jobs). Southperry is dedicated to islanders & campers, Flow is dedicated mostly to off-island permabeginners, and Oddjobs is dedicated to any type of odd job! We also have Victoria, which is dedicated to Victoria-Island-locked (but not necessarily odd) characters :)
+
+  The oddball MapleStory community suffers from its sparsity, and Suboptimal is no exception — because I (and some others in Suboptimal) are so deeply invested in oddball MapleStory, we genuinely want to revitalise said community. So, we humbly ask anyone interested to give some real consideration to joining us, and helping to form a fun community together that preserves oddball MapleStory!! \<3
+  ```
+
+- Or maybe something in between! (This is currently what I’m using):
+
+  ```markdown
+  __**R\>Oddjobs**__ (<https://oddjobs.codeberg.page/>)
+
+  • Odd jobbers only! See <https://oddjobs.codeberg.page/odd-jobs.html> for a (non-exhaustive) list of a few of them.
+  • Very casual guild; anyone is welcome, as long as you’re an odd job!
+  • Receiving leech is disallowed for members (& future members) of the guild.
+  • Part of the **Suboptimal** alliance, alongside **Flow**, the _de facto_ off-island permabeginner guild of ML, & **Southperry**, the largest islander guild of ML!
 
   The oddball MapleStory community suffers from its sparsity, and Suboptimal is no exception — because I (and some others in Suboptimal) are so deeply invested in oddball MapleStory, we genuinely want to revitalise said community. So, we humbly ask anyone interested to give some real consideration to joining us, and helping to form a fun community together that preserves oddball MapleStory!! \<3
   ```
