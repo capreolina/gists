@@ -13,7 +13,10 @@
         - [ ] Lay down simple ground rules for juniors
         - [ ] Make more people juniors
     - [ ] ML forums
-        - [ ] Write & post Odd Job Field Guide
+        - [ ] Write & post “Introduction To Odd Jobs”
+            - [ ] Write guide
+            - [ ] Post to ML forums
+            - [ ] Post to other forums
             - [ ] Translate the guide into other languages (I can only do English & Spanish lmfao but if anyone wants to do another language, go for it)
                 - [ ] Spanish
                 - [ ] Brazilian Portuguese?
@@ -25,6 +28,7 @@
                 - [ ] Japanese?
                 - [ ] Cantonese?
                 - [ ] `[insert language here]`??
+            - [ ] Revise original posts to add translation(s)
         - [ ] Bump the Oddjobs recruiting thread
     - [ ] People whom I/we already know
         - [ ] Reach out to anyone I personally know, who might be interested
