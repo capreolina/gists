@@ -14,6 +14,17 @@
         - [ ] Make more people juniors
     - [ ] ML forums
         - [ ] Write & post Odd Job Field Guide
+            - [ ] Translate the guide into other languages (I can only do English & Spanish lmfao but if anyone wants to do another language, go for it)
+                - [ ] Spanish
+                - [ ] Brazilian Portuguese?
+                - [ ] Korean?
+                - [ ] Beijing Mandarin?
+                - [ ] Hebrew?
+                - [ ] Dutch?
+                - [ ] Malay?
+                - [ ] Japanese?
+                - [ ] Cantonese?
+                - [ ] `[insert language here]`??
         - [ ] Bump the Oddjobs recruiting thread
     - [ ] People whom I/we already know
         - [ ] Reach out to anyone I personally know, who might be interested
