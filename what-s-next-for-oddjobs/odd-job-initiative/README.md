@@ -9,9 +9,9 @@
     - [x] ML Discord
         - [x] Write recruitment message(s)
         - [x] Start posting in `#recruitment` regularly
-    - [ ] Jr. Masters
-        - [ ] Lay down simple ground rules for juniors
-        - [ ] Make more people juniors
+    - [x] Jr. Masters
+        - [x] Lay down simple ground rules for juniors
+        - [x] Make more people juniors
     - [ ] ML forums
         - [ ] Write & post “Introduction To Odd Jobs”
             - [ ] Write guide
