@@ -16,7 +16,7 @@
         - [ ] Write & post “Introduction To Odd Jobs”
             - [x] Write guide
             - [x] Post to ML forums
-            - [ ] Post to other forums
+            - [x] Post to other forums
             - [ ] Translate the guide into other languages (I can only do English & Spanish lmfao but if anyone wants to do another language, go for it)
                 - [ ] Spanish
                 - [ ] Brazilian Portuguese?
@@ -33,7 +33,7 @@
     - [ ] People whom I/we already know
         - [ ] Reach out to anyone I personally know, who might be interested
         - [ ] Ask others to do the same
-    - [ ] Reach out to other forums (besides ML forums)
+    - [ ] Reach out to other forums (besides ML forums)?
     - [ ] Reach out to other Discords (besides ML Discord)
         - [x] Post in JoblessMS Discord
         - [x] Post in ML islander Discord
@@ -91,7 +91,7 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
 
 (In Discord-flavoured Markdown)
 
-- This is the style that I used to use, long ago when I recruited through `#recruitment` in the ML Discord:
+- This is the style that I used to use, long ago when I recruited through `#recruitment` in the MapleLegends Discord server:
 
   ```markdown
   __**R\>Oddjobs**__ (<https://oddjobs.codeberg.page/>)
