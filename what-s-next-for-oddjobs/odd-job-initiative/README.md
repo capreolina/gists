@@ -15,7 +15,7 @@
     - [ ] ML forums
         - [ ] Write & post “Introduction To Odd Jobs”
             - [x] Write guide
-            - [ ] Post to ML forums
+            - [x] Post to ML forums
             - [ ] Post to other forums
             - [ ] Translate the guide into other languages (I can only do English & Spanish lmfao but if anyone wants to do another language, go for it)
                 - [ ] Spanish
