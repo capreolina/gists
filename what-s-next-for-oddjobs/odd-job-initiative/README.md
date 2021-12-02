@@ -31,7 +31,7 @@
             - [ ] Revise original posts to add translation(s)
         - [ ] Bump the Oddjobs recruiting thread
     - [ ] People whom I/we already know
-        - [ ] Reach out to anyone I personally know, who might be interested
+        - [x] Reach out to anyone I personally know, who might be interested
         - [ ] Ask others to do the same
     - [ ] Reach out to other forums (besides ML forums)?
     - [ ] Reach out to other Discords (besides ML Discord)
@@ -87,7 +87,7 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
 
   > `[item smega of Slime Bubble]` i have 547 of these how do i leave maple island \\\\ R\>Oddjobs
 
-## ML Discord recruitment message(s)
+## ML Discord recruitment messages
 
 (In Discord-flavoured Markdown)
 
@@ -126,3 +126,39 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
 
   The oddball MapleStory community suffers from its sparsity, and Suboptimal is no exception — because I (and some others in Suboptimal) are so deeply invested in oddball MapleStory, we genuinely want to revitalise said community. So, we humbly ask anyone interested to give some real consideration to joining us, and helping to form a fun community together that preserves oddball MapleStory!! \<3
   ```
+
+## Rules for jr. masters
+
+Don’t do anything destructive, which means:
+
+- Don’t kick anyone from the guild.
+- Don’t change the guild notice.
+- Don’t delete BBS posts/comments.
+
+## “Introduction To Odd Jobs”
+
+- Original: <https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/> ([git repo](https://codeberg.org/oddjobs/odd_job_guides/src/branch/master/introduction-to-odd-jobs))
+- MapleLegends forums: <https://forum.maplelegends.com/index.php?threads/introduction-to-odd-jobs.43515/>
+- MapleRoyals forums: <https://mapleroyals.com/forum/threads/introduction-to-odd-jobs.198551/>
+- Dream MS forums: <https://forum.dream.ms/threads/introduction-to-odd-jobs.4230/>
+- MapleSaga forums: <https://forums.maplesaga.com/index.php?threads/introduction-to-odd-jobs.22710/>
+
+## Oddjobs recruitment thread on MapleLegends forums bump
+
+Oddjobs is currently undergoing a big push for “recruitment”, although calling it “recruitment” doesn’t really do it justice. I call it the “Odd Job Initiative”. To help explain what the Odd Job Initiative is, I’ve adapted a message that I had already composed for another purpose:
+
+> I’m reaching out to as many MapleStory odd-jobbed & oddball communities as I possibly can, in the hopes of finding anyone interested in working with me to revitalise & rejuvenate the oddball MapleStory community, and create a unified place for folks to play MapleStory in unorthodox ways!
+>
+> In MapleLegends, I helped to found a guild by the name of **Oddjobs**. Oddjobs has since expanded to include a number of MapleLegends players, and has founded an alliance called **Suboptimal** specifically for oddball MapleStory, including guilds like **Flow** (the main off-island permabeginner guild of MapleLegends), **Victoria** (a guild for Victoria-Island-locked characters), and **Southperry** (the main islander guild of MapleLegends)! The oddball MapleStory community suffers from its sparsity, and Suboptimal is no exception — because I (and some others in Suboptimal) are so deeply invested in oddball MapleStory, we genuinely want to revitalise said community.
+>
+> I hope that some people out there are willing to try MapleLegends on for size — it’s actually quite hospitable to all manner of odd jobs (and generally oddball playstyles), and it’s quite fun!! Of course, no MapleStory server is perfect — MapleLegends, as a server, has its own share of problems, including the usual issues with HP washing and leeching. That being said, it has a solid and friendly playerbase, and has _lots_ of content, while still staying quite true to the O.G. pre-Big-Bang vibe!
+>
+> Some of you probably already play (or have played) MapleLegends, and others may already be invested in other servers. It may be presumptuous to expect the latter folks to just uproot themselves and move to another server. That being said, I really do hope to somehow reconnect the oddball MapleStory community with each other again, and I hope that y’all would consider taking a chance on MapleLegends, because I truly think it would be awesome to see oddball Maplers thrive once again!!
+>
+> If you have any questions, please don’t hesitate to DM me on Discord at `@deer#1028`!! Also, Oddjobs has a dedicated website that you can find at <https://oddjobs.codeberg.page/> — [the “Join On Up” section](https://oddjobs.codeberg.page/join-on-up.html) has some info relevant to joining the guild, including rules, and some ways to contact me in-game.
+
+The Odd Job Initiative is our genuine attempt to put the oddball MapleStory community in as concentrated of a space as possible, so that it may live — and ideally, thrive. Although the Odd Job Initiative is focused on the Oddjobs guild (or rather, the **Suboptimal** alliance as a whole), my motivation is not selfish. I genuinely believe that MapleLegends has the best chance of being a popular middle ground for oddball Maplers from all corners of the Mapleverse, and the Odd Job Initiative seeks to unify rather than divide.
+
+[You can find a to-do list — and some other materials — relating to the Odd Job Initiative here](https://codeberg.org/deer/gists/src/branch/master/what-s-next-for-oddjobs/odd-job-initiative/README.md).
+
+With all of that said, I implore anyone reading this to at least _consider_ the idea of maybe trying out an odd-jobbed character or two of your own. Odd jobs [are very diverse](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/), so there’s a pretty solid chance that there’s at least one out there that you’d really enjoy playing!! \<3
