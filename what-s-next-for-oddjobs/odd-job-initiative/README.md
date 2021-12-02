@@ -32,7 +32,7 @@
         - [ ] Bump the Oddjobs recruiting thread
     - [ ] People whom I/we already know
         - [x] Reach out to anyone I personally know, who might be interested
-        - [ ] Ask others to do the same
+        - [x] Ask others to do the same
     - [ ] Reach out to other forums (besides ML forums)?
     - [ ] Reach out to other Discords (besides ML Discord)
         - [x] Post in JoblessMS Discord
@@ -58,7 +58,7 @@ Oddjobs has a dedicated website, which you can find at <https://oddjobs.codeberg
 
 I asked for permission from `@GMSlut` to post this here — as it would otherwise be quite rude to advertise something from another server — because I genuinely want to revitalise the oddball MapleStory community. The guilds in Suboptimal have suffered from dwindling numbers & inactivity, and I want to help ameliorate the inactivity that is seen with odd-jobbers in MapleLegends and MapleStory in general. I hope to somehow reconnect the oddball MapleStory community with each other again, and I hope that y’all would consider taking a chance on MapleLegends, because I truly think it would be awesome to see oddball maplers thrive once again!! c: \<3
 
-## Message sent to ML islander Discord
+## Message sent to MapleLegends islander Discord server
 
 Hey y’all! I’m reaching out to as many MapleStory odd-jobbed & oddball communities as I possibly can, in the hopes of finding anyone interested in working with me to revitalise & rejuvenate the oddball MapleStory community, and create a unified place for folks to play MapleStory in unorthodox ways! ^^
 
@@ -75,6 +75,18 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
 ~~As I’m sure most of you know, the community for odd-jobbed (islanders, other permabeginners, other odd jobs) and generally oddball MapleStory is difficult to find, especially these days. With the oddball population of major servers dwindling and becoming less concentrated, it’s increasingly tough to find an integrated community of people who share a common interest of playing MapleStory in goofy-ass ways.~~
 
 ~~As I’ve observed the oddball MapleStory community, I can’t help but notice this dwindling of the population and lack of solid community. Suboptimal has suffered from this, and the guilds that make up Suboptimal have trouble keeping a stable population. I’ve personally been deeply invested in the oddball MapleStory community for a long time now, and both I, and many other oddball MapleLegends players, genuinely want to revitalise said oddball MapleStory community.~~
+
+## Message sent to MapleRoyals islander Discord server
+
+Hey y’all! I’m reaching out to as many MapleStory odd-jobbed & oddball communities as I possibly can, in the hopes of finding anyone interested in working with me to revitalise & rejuvenate the oddball MapleStory community, and create a unified place for folks to play MapleStory in unorthodox ways! ^^
+
+The community that I’m part of is in MapleLegends, largely in an alliance called **Suboptimal**. The oddball MapleStory community suffers from its sparsity, and Suboptimal is no exception — because I (and some others in Suboptimal) are so deeply invested in oddball MapleStory, we genuinely want to revitalise said community.
+
+Now, I know that y’all are a MapleRoyals community, but I was hoping that some of you might want to try MapleLegends on for size — it’s actually quite hospitable to _all_ manner of odd jobs (and generally oddball playstyles), and it’s quite fun!! Of course, no MapleStory server is perfect — MapleLegends, as a server, has its own share of problems, including the usual issues with HP washing and leeching. That being said, it has a solid and friendly playerbase, and has _lots_ of content, while still staying quite true to the O.G. pre-Big-Bang vibe!
+
+It may be presumptuous to expect people to just uproot themselves and move to another server. That being said, I really do hope to somehow reconnect the oddball MapleStory community with each other again, and I hope that y’all would consider taking a chance on MapleLegends, because I truly think it would be awesome to see oddball maplers thrive once again!! c: \<3
+
+If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Also, Oddjobs has a dedicated website that you can find at <https://oddjobs.codeberg.page/> — the “Join On Up” section has some info relevant to joining the guild, including rules, and some ways to contact me in-game.
 
 ## Smega ideas
 
