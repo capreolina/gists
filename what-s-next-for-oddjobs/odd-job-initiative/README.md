@@ -37,7 +37,7 @@
     - [ ] Reach out to other Discords (besides ML Discord)
         - [x] Post in JoblessMS Discord
         - [x] Post in ML islander Discord
-        - [ ] Post in MR islander Discord
+        - [x] Post in MR islander Discord
         - [ ] Post in other Discord(s)
 - [ ] Focus on those who are already involved
     - [ ] Set up activities that we can do together
