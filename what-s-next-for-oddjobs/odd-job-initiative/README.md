@@ -12,8 +12,8 @@
     - [x] Jr. Masters
         - [x] Lay down simple ground rules for juniors
         - [x] Make more people juniors
-    - [ ] ML forums
-        - [ ] Write & post “Introduction To Odd Jobs”
+    - [x] ML forums
+        - [x] Write & post “Introduction To Odd Jobs”
             - [x] Write guide
             - [x] Post to ML forums
             - [x] Post to other forums
@@ -29,8 +29,8 @@
                 - [ ] Cantonese?
                 - [ ] `[insert language here]`??
             - [ ] Revise original posts to add translation(s)
-        - [ ] Bump the Oddjobs recruiting thread
-    - [ ] People whom I/we already know
+        - [x] Bump the Oddjobs recruiting thread
+    - [x] People whom I/we already know
         - [x] Reach out to anyone I personally know, who might be interested
         - [x] Ask others to do the same
     - [ ] Reach out to other forums (besides ML forums)?
