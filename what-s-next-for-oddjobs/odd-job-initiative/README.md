@@ -127,12 +127,25 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
   The oddball MapleStory community suffers from its sparsity, and Suboptimal is no exception — because I (and some others in Suboptimal) are so deeply invested in oddball MapleStory, we genuinely want to revitalise said community. So, we humbly ask anyone interested to give some real consideration to joining us, and helping to form a fun community together that preserves oddball MapleStory!! \<3
   ```
 
-- Or maybe something in between! (This is currently what I’m using):
+- Or maybe something in between!:
 
   ```markdown
   __**R\>Oddjobs**__ (<https://oddjobs.codeberg.page/>)
 
   • Odd jobbers only! See <https://oddjobs.codeberg.page/odd-jobs.html> for a (non-exhaustive) list of a few of them.
+  • Very casual guild; anyone is welcome, as long as you’re an odd job!
+  • Receiving leech is disallowed for members (& future members) of the guild.
+  • Part of the **Suboptimal** alliance, alongside **Flow**, the _de facto_ off-island permabeginner guild of ML, & **Southperry**, the largest islander guild of ML!
+
+  The oddball MapleStory community suffers from its sparsity, and Suboptimal is no exception — because I (and some others in Suboptimal) are so deeply invested in oddball MapleStory, we genuinely want to revitalise said community. So, we humbly ask anyone interested to give some real consideration to joining us, and helping to form a fun community together that preserves oddball MapleStory!! \<3
+  ```
+
+- Updated to point to the “Introduction To Odd Jobs” (This is currently what I’m using):
+
+  ```markdown
+  __**R\>Oddjobs**__ (<https://oddjobs.codeberg.page/>)
+
+  • Odd jobbers only! See <https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/> for a (non-exhaustive) list of a few of them.
   • Very casual guild; anyone is welcome, as long as you’re an odd job!
   • Receiving leech is disallowed for members (& future members) of the guild.
   • Part of the **Suboptimal** alliance, alongside **Flow**, the _de facto_ off-island permabeginner guild of ML, & **Southperry**, the largest islander guild of ML!
