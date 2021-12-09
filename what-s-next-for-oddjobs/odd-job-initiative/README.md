@@ -21,12 +21,13 @@
                 - [ ] Spanish
                 - [ ] Brazilian Portuguese?
                 - [ ] Korean?
+                - [ ] Cantonese?
                 - [ ] Beijing Mandarin?
                 - [ ] Hebrew?
                 - [ ] Dutch?
                 - [ ] Malay?
                 - [ ] Japanese?
-                - [ ] Cantonese?
+                - [ ] Taishanese?
                 - [ ] `[insert language here]`??
             - [ ] Revise original posts to add translation(s)
         - [x] Bump the Oddjobs recruiting thread
