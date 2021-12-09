@@ -27,6 +27,7 @@
                 - [ ] Dutch?
                 - [ ] Malay?
                 - [ ] Japanese?
+                - [ ] German?
                 - [ ] Taishanese?
                 - [ ] `[insert language here]`??
             - [ ] Revise original posts to add translation(s)
