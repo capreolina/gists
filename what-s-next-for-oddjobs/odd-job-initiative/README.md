@@ -41,12 +41,12 @@
         - [x] Post in ML islander Discord
         - [x] Post in MR islander Discord
         - [ ] Post in other Discord(s)
-- [ ] Focus on those who are already involved
-    - [ ] Set up activities that we can do together
-        - [ ] Schedule regular runs!
-        - [ ] Try to put together a(n) SPQ run(s)
-            - [ ] Make an SPQ/KPQ mule
-        - [ ] Try to schedule a third Ravana attempt
+- [x] Focus on those who are already involved
+    - [x] Set up activities that we can do together
+        - [x] Schedule regular runs!
+        - [x] Try to put together a(n) SPQ run(s)
+            - [x] Make an SPQ/KPQ mule
+        - [x] Try to schedule a third Ravana attempt
 - [ ] Revisit Oddjobs website & guides
     - [ ] Copyedit
 
