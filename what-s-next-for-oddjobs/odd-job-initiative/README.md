@@ -44,6 +44,7 @@
 - [x] Focus on those who are already involved
     - [x] Set up activities that we can do together
         - [x] Schedule regular runs!
+            - [ ] Make a bot that automatically posts in `#runs`
         - [x] Try to put together a(n) SPQ run(s)
             - [x] Make an SPQ/KPQ mule
         - [x] Try to schedule a third Ravana attempt
@@ -189,3 +190,15 @@ The Odd Job Initiative is our genuine attempt to put the oddball MapleStory comm
 [You can find a to-do list — and some other materials — relating to the Odd Job Initiative here](https://codeberg.org/deer/gists/src/branch/master/what-s-next-for-oddjobs/odd-job-initiative/README.md).
 
 With all of that said, I implore anyone reading this to at least _consider_ the idea of maybe trying out an odd-jobbed character or two of your own. Odd jobs [are very diverse](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/), so there’s a pretty solid chance that there’s at least one out there that you’d really enjoy playing!! \<3
+
+## Message for generic MapleStory forums
+
+Hey y’all! I’m reaching out to as many MapleStory communities as I possibly can, in the hopes of finding anyone interested in working with me to revitalise & rejuvenate the oddball/odd-jobbed MapleStory community, and create a unified place for folks to play MapleStory in unorthodox ways! ^^
+
+The community that I’m part of is in the **MapleLegends** server (pre-Big-Bang with content from lots of versions), largely in an alliance called **Suboptimal**. The oddball MapleStory community suffers from its sparsity, and Suboptimal is no exception — because I (and some others in Suboptimal) are so deeply invested in oddball MapleStory, we genuinely want to revitalise said community.
+
+Now, I know that y’all aren’t a MapleLegends community, but I was hoping that some of you might want to try MapleLegends on for size — it’s actually quite hospitable to _all_ manner of odd jobs (and generally oddball playstyles), and it’s quite fun!! Of course, no MapleStory server is perfect — MapleLegends, as a server, has its own share of problems, including the usual issues with HP washing and leeching. That being said, it has a solid and friendly playerbase, and has _lots_ of content, while still staying quite true to the O.G. pre-Big-Bang vibe!
+
+It may be presumptuous to expect people to just uproot themselves and move to another server. That being said, I really do hope to somehow reconnect the oddball MapleStory community with each other again, and I hope that y’all would consider taking a chance on MapleLegends, because I truly think it would be awesome to see oddball maplers thrive once again!! c: \<3
+
+If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Also, the **Oddjobs** guild has a dedicated website that you can find at <https://oddjobs.codeberg.page/> — the “Join On Up” section has some info relevant to joining the guild, including rules, and some ways to contact me in-game.
