@@ -18,7 +18,7 @@
             - [x] Post to ML forums
             - [x] Post to other forums
             - [ ] Translate the guide into other languages (I can only do English & Spanish lmfao but if anyone wants to do another language, go for it)
-                - [ ] Spanish
+                - [x] Spanish
                 - [ ] Brazilian Portuguese?
                 - [ ] Korean?
                 - [ ] Cantonese?
