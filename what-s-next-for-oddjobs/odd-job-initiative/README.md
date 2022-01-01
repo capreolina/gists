@@ -101,6 +101,7 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
 - Tried this one on my islander:
 
   > `[item smega of Slime Bubble]` i have 547 of these how do i leave maple island \\\\ R\>Oddjobs
+- > R\>Oddjobs try an odd job once ya silly goofballs
 
 ## ML Discord recruitment messages
 

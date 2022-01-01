@@ -56,6 +56,11 @@ characters, some non-odd), but obviously prioritise fully-odd runs. Mixed runs
 may be necessary when we lack enough people to do a run, especially if that run
 has demanding requirements!
 
+The one exception here is SPQ, which is so guild-based that I want all SPQ runs
+to be Oddjobs-only. That being said, it’s okay with me if odd-jobbers from
+other guilds join Oddjobs temporarily for the purpose of SPQing. Just so long
+as they aren’t non-odd characters.
+
 **Red** (leader of the **GangGang** guild, but also has some characters in
 Suboptimal) suggested doing some kind of joint Suboptimal-**Dream** (Dream is
 the alliance that GangGang is in with **Chroma**) runs of tough-ish things like
