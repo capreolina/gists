@@ -11,12 +11,32 @@ All times are in
 [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time), a\.k\.a. server time,
 a\.k\.a. ST).
 
-| day       |   time | activity(?)                                                                                                                                  |
-| :-------- | -----: | :------------------------------------------------------------------------------------------------------------------------------------------- |
-| Wednesday | ≈12:00 | **Low-level & area bosses:** Capt. Latanica, Headless Horseman, Bigfoot, Black Crow(‽), Kacchuu Musha(‽‽), Leviathan, Manon/Griffey, Pianus… |
-| Saturday  | ≈22:00 | **Assorted PQs:** PPQ/MLGPQ, KPQ, LPQ, EPQ, OPQ, LMPQ, MPQ/R&JPQ…                                                                            |
-| Sunday    |  05:00 | **Ravana/Papulatus**!                                                                                                                        |
-| Sunday    |  08:00 | **SPQ/APQ**!                                                                                                                                 |
+| day       |   time | activity(?)                                                                                                                                                        |
+| :-------- | -----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wednesday | ≈12:00 | **Low-level & area bosses:** Mushmom, Capt. Latanica, Headless Horseman, ZMM, Stumpy, Bigfoot, Leviathan, Manon/Griffey, Pianus, Black Crow(‽), Kacchuu Musha(‽‽)… |
+| Saturday  | ≈22:00 | **Assorted PQs:** PPQ/MLGPQ, KPQ, LPQ, EPQ, OPQ, LMPQ, MPQ/R&JPQ…                                                                                                  |
+| Sunday    |  05:00 | **Ravana/Papulatus**!                                                                                                                                              |
+| Sunday    |  08:00 | **SPQ/APQ**!                                                                                                                                                       |
+
+## Can I join?
+
+If you’re afraid that your odd-jobbed character is unable to participate in
+some of the activities above, consider the actual requirements:
+
+- SPQ/APQ: **For SPQ, no requirements. For APQ, level ≥40 and married.**
+- Low-level & area bosses: **No requirements.** Area bosses range all
+  the way from _Mano_ to Kacchuu Musha, and everything in between. There’s
+  almost certainly at least one area boss (including Capt. Latanica as a
+  “low-level” boss) in the game that is appropriate for your character to have
+  a challenging fight against. That being said, we tend to hover around the
+  HH/Capt. Lat level, but don’t let that discourage you from suggesting a
+  lower-level run.
+- Assorted PQs: **Must be level ≤100.** PQs start around level 10 (with HPQ),
+  and go as high as level 100 with PPQ/MLGPQ. Technically, HPQ allows any level
+  ≥10 character to participate, but usually, taking an overleveled character is
+  just too much for our purposes.
+- Ravana/Papulatus: **At least 3\.3k–3\.4k MAXHP clean, to survive with HB. For
+  Papulatus specifically, prequests are required (level ≥80 for prequests).**
 
 ## Who runs?
 
