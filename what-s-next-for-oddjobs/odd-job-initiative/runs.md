@@ -38,6 +38,14 @@ some of the activities above, consider the actual requirements:
 - Ravana/Papulatus: **At least 3\.3k–3\.4k MAXHP clean, to survive with HB. For
   Papulatus specifically, prequests are required (level ≥80 for prequests).**
 
+## Signup sheet
+
+Use this sheet to sign up for runs! Don’t be afraid to sign up even if the
+event is starting very soon, or has recently already started!
+
+**<https://docs.google.com/spreadsheets/d/1wHWdE7rfKI20vUTaNPU2qyfVI2RiAwMC4uY9G7Awe-0/edit?usp=sharing>**
+(short link: **<https://bit.ly/3f11K9n>**)
+
 ## Who runs?
 
 There’s always the (quite likely) possibility that we have an issue with
