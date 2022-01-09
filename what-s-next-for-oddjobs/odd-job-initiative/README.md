@@ -48,6 +48,7 @@
         - [x] Try to put together a(n) SPQ run(s)
             - [x] Make an SPQ/KPQ mule
         - [x] Try to schedule a third Ravana attempt
+        - [x] Make a signup sheet
 - [ ] Revisit Oddjobs website & guides
     - [ ] Copyedit
 
@@ -103,6 +104,7 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
   > `[item smega of Slime Bubble]` i have 547 of these how do i leave maple island \\\\ R\>Oddjobs
 - > R\>Oddjobs try an odd job once ya silly goofballs
 - > R\>Oddjobs! we have bad stats, wrong weapons, &amp; nice vibes~
+- > add str on ur mage bro. i wont tell bro. ily bro (R\>Oddjobs)
 
 ## ML Discord recruitment messages
 
