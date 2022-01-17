@@ -50,6 +50,7 @@
         - [x] Try to schedule a third Ravana attempt
         - [x] Make a signup sheet
         - [ ] Make a Suboptimal-Dream meta-alliance Discord server
+- [ ] Odd job demo/showcase video
 - [ ] Revisit Oddjobs website & guides
     - [ ] Short essay for front page
     - [ ] Copyedit
