@@ -49,7 +49,9 @@
             - [x] Make an SPQ/KPQ mule
         - [x] Try to schedule a third Ravana attempt
         - [x] Make a signup sheet
+        - [ ] Make a Suboptimal-Dream meta-alliance Discord server
 - [ ] Revisit Oddjobs website & guides
+    - [ ] Short essay for front page
     - [ ] Copyedit
 
 ## Message sent to JoblessMS Discord
@@ -105,6 +107,7 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
 - > R\>Oddjobs try an odd job once ya silly goofballs
 - > R\>Oddjobs! we have bad stats, wrong weapons, &amp; nice vibes~
 - > add str on ur mage bro. i wont tell bro. ily bro (R\>Oddjobs)
+- > tired of the same old maplestory jobs...? R\>Oddjobs!! \<3
 
 ## ML Discord recruitment messages
 
