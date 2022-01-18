@@ -18,21 +18,8 @@ HDClient = 2
 ; In-game you can also press ALT + ENTER to toggle between windowed and full-screen
 Windowed = true
 
-; Start the client in the center of the screen.
-StartInCenter = false
-
-; Have the client remember the position in which the client was closed last time, and open up in that position.
-; StartInCenter will override this, so make sure to have StartInCenter set to false if you want this to work.
-RememberClosePos = false
-
-; This skips the starting logo animation screens and sends you straight to login.
-SkipWizetAnim = true
-
 ; Enable darker chat background, which helps you seeing the chat in bright areas
 DarkChat = true
-
-; Enable infinite chat logging, which allows you to see everything said in-game from your game session without it erasing
-InfiniteChatLog = true
 
 ; Select the type of transitioning between maps. This affects the duration and speed of the dark screen during map transfer.
 ; 1 = Classic MapleStory
