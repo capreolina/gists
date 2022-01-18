@@ -73,7 +73,9 @@ StreamerMode = true
 
 ### Canvas layout
 
-Just a “Window Capture” of the MapleLegends window. With this selected, you can right click ▶ “Transform” ▶ “Edit Transform…” to get to the “Edit Transform” window. The settings here are:
+Just a “Window Capture” of the MapleLegends window. With this selected (in
+OBS’s visual preview), you can right click ▶ “Transform” ▶ “Edit Transform…” to
+get to the “Edit Transform” window. The settings here are:
 
 - **Position:** (0, 0)
 - **Rotation:** 0
@@ -86,4 +88,6 @@ Just a “Window Capture” of the MapleLegends window. With this selected, you 
     - **Top:** 0
     - **Bottom:** 0
         
-Also by right clicking the preview with the MapleLegends window element selected, you can do “Scale Filtering” ▶ “Disable” to disable filtering when downscaling to the 1280×768 canvas.
+Also by right clicking the preview with the MapleLegends window element
+selected, you can do “Scale Filtering” ▶ “Disable” to disable filtering when
+downscaling to the 1280×720 canvas.
