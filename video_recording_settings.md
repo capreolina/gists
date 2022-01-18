@@ -53,6 +53,8 @@ StreamerMode = true
 
 ## OBS
 
+### Settings
+
 - Output
     - Recording
         - **Recording Format:** mp4
@@ -81,3 +83,20 @@ StreamerMode = true
         - **Color Format:** NV12
         - **Color Space:** 709
         - **Color Range:** Partial
+
+### Canvas layout
+
+Just a “Window Capture” of the MapleLegends window. With this selected, you can right click ▶ “Transform” ▶ “Edit Transform…” to get to the “Edit Transform” window. The settings here are:
+
+- **Position:** (0, 0)
+- **Rotation:** 0
+- **Size:** (1280, 720)
+- **Positional Alignment:** Top Left
+- **Bounding Box Type:** No bounds
+- Crop
+    - **Left:** 0
+    - **Right:** 0
+    - **Top:** 0
+    - **Bottom:** 0
+        
+Also by right clicking the preview with the MapleLegends window element selected, you can do “Scale Filtering” ▶ “Disable” to disable filtering when downscaling to the 1280×768 canvas.
