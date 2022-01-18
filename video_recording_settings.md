@@ -35,6 +35,10 @@ StreamerMode = true
 
 - SYSTEM OPTIONS
     - **PICTURE QUALITY:** BEST
+    - BGM
+        - **MUTE:** true
+    - SOUND
+        - **MUTE:** false
     - **SHAKE UP THE SCREEN:** false
     - **MONSTER INFO.:** Mark name and HP
 
