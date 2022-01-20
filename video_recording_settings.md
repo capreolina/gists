@@ -48,7 +48,7 @@ StreamerMode = true
 
 - Output
     - Recording
-        - **Recording Format:** mp4
+        - **Recording Format:** mkv
         - **Rescale Output:** false
         - \[encoder settings\]
             - **Codec:** H\.264
