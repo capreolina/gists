@@ -110,6 +110,7 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
 - > add str on ur mage bro. i wont tell bro. ily bro (R\>Oddjobs)
 - > R\>Oddjobs our beginners throw stars \&our hermits use daggers
 - > tired of the same old maplestory jobs...? R\>Oddjobs!! \<3
+- > R\>Oddjobs we r good at having bad stats & looking cute
 
 ## ML Discord recruitment messages
 
