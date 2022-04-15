@@ -63,6 +63,7 @@
 - Helm DEF 60%
 - Helm HP 10%/60%
 - Top LUK 30%
+- Top DEF 10%
 - OA DEX 10%/60%
 - OA INT 10%/60%
 - Bot DEX 10%
@@ -72,7 +73,6 @@
 - Cape DEX 30%
 - Cape HP 60%
 - GFA60
-- GFD60
 - 1H sword WATK 60%
 - 1H BW WATK 60%
 - Spear WATK 60%
