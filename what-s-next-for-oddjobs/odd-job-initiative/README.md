@@ -108,9 +108,10 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
 - > R\>Oddjobs try an odd job once ya silly goofballs
 - > R\>Oddjobs! we have bad stats, wrong weapons, &amp; nice vibes~
 - > add str on ur mage bro. i wont tell bro. ily bro (R\>Oddjobs)
-- > R\>Oddjobs our beginners throw stars \&our hermits use daggers
+- > R\>Oddjobs our beginners throw stars &amp;our hermits use daggers
 - > tired of the same old maplestory jobs...? R\>Oddjobs!! \<3
 - > R\>Oddjobs we r good at having bad stats & looking cute
+- > r\>oddjobs we do weird damage
 
 ## ML Discord recruitment messages
 
