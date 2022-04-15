@@ -74,6 +74,7 @@
 - Cape HP 60%
 - GFA60
 - 1H sword WATK 60%
+- 2H sword WATK 60%
 - 1H BW WATK 60%
 - Spear WATK 60%
 - Bow WATK 10%/60%
