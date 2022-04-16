@@ -56,6 +56,8 @@
 
 ### Ammunitions
 
+- Kumbis
+- Split Bullets
 - Mighty Bullets
 
 ### Scrolls
