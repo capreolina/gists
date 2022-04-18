@@ -6,6 +6,7 @@
 
 - 1 LUK nose
 - clean Skull Earrings
+- Pink-Flowered Earrings (41 MDEF clean)
 - Moonstar Earrings (3 TMA, 3 slot)
 - Dark Crusader Chainmails (5 STR clean)
 - 3 STR clean warrior hats
@@ -28,6 +29,7 @@
 - Kfan (49 WATK, 4 WACC, 6 AVOID clean)
 - Kfan (49 WATK, 4 WACC, 4 AVOID clean)
 - Cass (52 WATK, 0 slot)
+- Kandine (78 WATK, 3 AVOID clean)
 - Serpent’s Coil (85 WATK, 0 slot)
 - Serpent’s Coil (80 WATK, 0 slot)
 - Sai (76 WATK, 3 LUK, 0 slot)
@@ -40,7 +42,9 @@
 - Silver Maiden (38 WATK clean)
 - RK (85 WATK clean)
 - Dark Slain (37 WATK, 3 LUK, 3 AVOID clean)
+- Brown Scarab (36 WATK, 5 LUK clean)
 - Black Scarab (35 WATK, 7 LUK clean)
+- Evil Wings (84 MATK, 51 WATK clean)
 - Pink Seal Cushion (100 WATK, 4 STR clean)
 - Mithril Tower Shield (3 STR, 38 WDEF clean)
 - Adamantium Legend Shield (3 STR, 54 WDEF, 25 MDEF, 5 slot)
