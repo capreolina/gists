@@ -4,6 +4,7 @@
 
 ### Equips
 
+- clean Ribboned Pig Headband
 - 1 LUK nose
 - clean Skull Earrings
 - Pink-Flowered Earrings (41 MDEF clean)
