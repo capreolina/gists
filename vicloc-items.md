@@ -85,6 +85,7 @@
 - 1H BW WATK 60%
 - Spear WATK 60%
 - Bow WATK 10%/60%
+- Xbow WATK 60%
 - Claw WATK 60%
 - Dagger WATK 60%
 - Staff MATK 60%
