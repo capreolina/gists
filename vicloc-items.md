@@ -103,7 +103,6 @@
 ## Buying/looking for
 
 - Shield STR 60%s
-- Ear INT 60%s
 - Golden Rivers
 - CSSs
-- Helm INT 60%s/100%s
+- Wizard Potions
