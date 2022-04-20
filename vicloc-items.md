@@ -14,7 +14,6 @@
 - A Rice Cake on Top of My Head (28 WDEF, 3 MDEF, 1 WACC, 0 slot)
 - Red Bandana (2 WACC, 9 WDEF, 4 slot)
 - Red Bandana (2 WACC, 30 HP, 8 WDEF, 0 slot)
-- clean Blue Bamboo Hat
 - Red Oriental Helmet (2 STR, 68 WDEF, 0 slot)
 - Dark Briggon (2 STR, 4 DEX, 15 WDEF, 8 WACC, 0 slot)
 - Mithril Brist (4 stat clean)
@@ -95,7 +94,7 @@
 - Gun WATK 60%
 - Shield DEF 10%/60%
 - Shield HP 10%
-- Pet SPEED 10%/60%
+- Pet SPEED 10%
 
 ### Other
 
@@ -107,4 +106,4 @@
 - Helm DEX 10%s
 - Golden Rivers
 - CSSs
-- Wizard Potions
+- Wizard Potions &amp; Saps of Ancient Tree
