@@ -104,6 +104,7 @@
 ## Buying/looking for
 
 - Shield STR 60%s
+- Helm DEX 10%s
 - Golden Rivers
 - CSSs
 - Wizard Potions
