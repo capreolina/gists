@@ -4,6 +4,7 @@
 
 ### Equips
 
+- clean RWG
 - clean Ribboned Pig Headband
 - 1 LUK nose
 - clean Skull Earrings
