@@ -25,7 +25,8 @@
 - Leather Purse (39 WATK, 1 STR, 6 slot)
 - Fishing Pole (64 WATK, 1 STR, 16 WACC, 5 slot)
 - Fishing Pole (66 WATK, 1 STR, 14 WACC, 5 slot)
-- Fishing Pole (69 WATK, 17 WACC clean)
+- Fishing Pole (63 WATK, 15 WACC clean)
+- Fishing Pole (70 WATK, 15 WACC clean)
 - Aluminum Baseball Bat (48 WATK clean)
 - Kfan (49 WATK, 4 WACC, 6 AVOID clean)
 - Kfan (49 WATK, 4 WACC, 4 AVOID clean)
@@ -79,6 +80,7 @@
 - Cape DEX 30%
 - Cape HP 60%
 - GFA60
+- GFD60
 - 1H sword WATK 60%
 - 2H sword WATK 60%
 - 1H BW WATK 60%
