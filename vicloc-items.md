@@ -5,7 +5,7 @@
 ### Equips
 
 - clean RWG
-- clean Ribboned Pig Headband
+- (+0) 0slot Ribboned Pig Headband
 - 1 LUK nose
 - clean Skull Earrings
 - Pink-Flowered Earrings (41 MDEF clean)
@@ -68,7 +68,6 @@
 ### Scrolls
 
 - Helm DEF 60%
-- Helm HP 10%/60%
 - Top LUK 30%
 - Top DEF 10%
 - OA DEX 10%/60%
