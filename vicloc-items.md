@@ -4,6 +4,7 @@
 
 ### Equips
 
+- clean Crystal Flower Earrings (31 MDEF)
 - clean RWG
 - (+0) 0slot Ribboned Pig Headband
 - 1 LUK nose
@@ -47,6 +48,7 @@
 - Brown Scarab (36 WATK, 5 LUK clean)
 - Black Scarab (35 WATK, 7 LUK clean)
 - Evil Wings (84 MATK, 51 WATK clean)
+- Thorns (72 MATK, 51 WATK clean)
 - Pink Seal Cushion (100 WATK, 4 STR clean)
 - Mithril Tower Shield (3 STR, 38 WDEF clean)
 - Adamantium Legend Shield (3 STR, 54 WDEF, 25 MDEF, 5 slot)
