@@ -29,6 +29,7 @@
 - Fishing Pole (63 WATK, 15 WACC clean)
 - Fishing Pole (70 WATK, 15 WACC clean)
 - Aluminum Baseball Bat (48 WATK clean)
+- Doombringer (89 WATK clean)
 - Kfan (49 WATK, 4 WACC, 6 AVOID clean)
 - Kfan (49 WATK, 4 WACC, 4 AVOID clean)
 - Cass (52 WATK, 0 slot)
@@ -41,10 +42,12 @@
 - BSB (79 WATK clean)
 - GSB (41 WATK, 5 JUMP clean)
 - Shooting Star (40 WATK clean)
+- Golden Hinkel (85 WATK, 11 SPEED clean)
 - Red Hinkel (87 WATK, 2 WACC, 6 slot)
 - Silver Maiden (38 WATK clean)
 - RK (85 WATK clean)
 - Dark Slain (27 WATK, 3 LUK, 3 AVOID clean)
+- Black Scarab (38 WATK, 7 LUK clean)
 - Brown Scarab (37 WATK, 3 LUK clean)
 - Evil Wings (84 MATK, 51 WATK clean)
 - Thorns (72 MATK, 51 WATK clean)
@@ -68,6 +71,7 @@
 ### Scrolls
 
 - Helm DEF 60%
+- Helm HP 60%
 - Top LUK 30%
 - Top DEF 10%
 - OA DEX 10%/60%
