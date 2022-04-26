@@ -76,6 +76,7 @@
 - Top DEF 10%
 - OA DEX 10%/60%
 - OA INT 10%/60%
+- Bot DEF 10%
 - Bot DEX 10%
 - Shoe JUMP 10%
 - Cape INT 10%/30%/60%/100%
