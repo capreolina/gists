@@ -50,6 +50,7 @@
 - Black Scarab (38 WATK, 7 LUK clean)
 - Brown Scarab (37 WATK, 3 LUK clean)
 - Evil Wings (84 MATK, 51 WATK clean)
+- Cromi (67 MATK, 41 WATK clean)
 - Thorns (72 MATK, 51 WATK clean)
 - Pink Seal Cushion (100 WATK, 4 STR clean)
 - Mithril Tower Shield (3 STR, 38 WDEF clean)
@@ -74,11 +75,13 @@
 - Helm HP 60%
 - Top LUK 30%
 - Top DEF 10%
+- OA STR 30%
 - OA DEX 10%/60%
 - OA INT 10%/60%
 - Bot DEF 10%
 - Bot DEX 10%
 - Shoe JUMP 10%
+- Shoe SPEED 60%
 - Cape INT 10%/30%/60%/100%
 - Cape STR 30%
 - Cape DEX 30%
@@ -88,7 +91,7 @@
 - 1H sword WATK 60%
 - 2H sword WATK 60%
 - 1H BW WATK 60%
-- Spear WATK 60%
+- Spear WATK 10%/60%
 - Bow WATK 10%/60%
 - Xbow WATK 60%
 - Claw WATK 60%
