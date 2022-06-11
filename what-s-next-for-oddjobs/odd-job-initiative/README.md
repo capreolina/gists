@@ -112,6 +112,7 @@ If you have any questions, please don’t hesitate to DM me at `@deer#1028`!! Al
 - > tired of the same old maplestory jobs...? R\>Oddjobs!! \<3
 - > R\>Oddjobs we r good at having bad stats & looking cute
 - > r\>oddjobs we do weird damage
+- > R\>Oddjobs we got freaky build &amp; cheeky guild
 
 ## ML Discord recruitment messages
 
